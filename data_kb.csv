@@ -1,0 +1,2001 @@
+Usia,Jenis_Kelamin,Jumlah_Anak,Pendidikan,Status_Ekonomi,Pekerjaan,Penggunaan_KB,Sumber_Informasi,Target
+24,Pria,2,SMA,Menengah,Wiraswasta,Tidak,Media,0
+37,Wanita,0,SMP,Rendah,Karyawan Swasta,Implan,Keluarga,1
+46,Wanita,4,SMA,Rendah,Buruh,Implan,Tenaga Kesehatan,1
+32,Wanita,5,SMA,Tinggi,Ibu Rumah Tangga,Tidak,Keluarga,1
+28,Wanita,2,Perguruan Tinggi,Menengah,PNS,Suntik,Tenaga Kesehatan,1
+25,Wanita,1,SMA,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+46,Wanita,2,SMA,Rendah,Buruh,Suntik,Media,1
+38,Wanita,2,SMA,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,1
+24,Pria,1,SMP,Rendah,Buruh,PIL,Tenaga Kesehatan,1
+43,Wanita,3,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+36,Pria,3,SMA,Tinggi,Ibu Rumah Tangga,Implan,Media,1
+40,Wanita,0,SMA,Tinggi,PNS,PIL,Tenaga Kesehatan,1
+28,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,0
+28,Pria,3,SMA,Menengah,Karyawan Swasta,Implan,Keluarga,1
+41,Wanita,5,SMA,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+38,Wanita,4,SD,Menengah,Ibu Rumah Tangga,Suntik,Media,0
+21,Pria,2,SD,Rendah,Buruh,Tidak,Keluarga,0
+25,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+41,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,Tidak,Media,0
+20,Pria,3,SMA,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+39,Wanita,0,SMP,Menengah,Karyawan Swasta,PIL,Media,1
+38,Pria,5,SMA,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+19,Wanita,0,SD,Rendah,PNS,Tidak,Keluarga,0
+41,Wanita,4,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+29,Wanita,0,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+47,Wanita,3,SD,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,0
+23,Wanita,5,SMP,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+19,Wanita,4,SMP,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+49,Pria,5,SD,Tinggi,PNS,Suntik,Tenaga Kesehatan,0
+45,Wanita,2,SMP,Tinggi,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+38,Pria,0,SMA,Rendah,Karyawan Swasta,Tidak,Teman,0
+18,Wanita,5,SMP,Rendah,PNS,Implan,Keluarga,0
+29,Pria,1,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+43,Pria,0,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,0
+39,Pria,2,SD,Tinggi,Karyawan Swasta,Tidak,Media,1
+46,Wanita,5,SMA,Tinggi,PNS,Kondom,Teman,1
+29,Pria,4,SD,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,0
+42,Wanita,2,SD,Menengah,Ibu Rumah Tangga,Kondom,Media,1
+34,Pria,1,SMA,Rendah,Karyawan Swasta,IUD,Media,1
+44,Pria,5,SMA,Rendah,Buruh,Tidak,Media,1
+44,Wanita,3,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Media,0
+48,Wanita,0,SMA,Menengah,PNS,PIL,Tenaga Kesehatan,0
+27,Pria,4,Perguruan Tinggi,Menengah,Wiraswasta,PIL,Keluarga,0
+49,Wanita,3,SD,Menengah,PNS,Tidak,Media,0
+45,Wanita,5,SD,Rendah,Karyawan Swasta,Tidak,Teman,1
+45,Wanita,5,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+33,Pria,2,SD,Rendah,Karyawan Swasta,Tidak,Media,1
+32,Pria,5,SMA,Menengah,Ibu Rumah Tangga,Suntik,Teman,0
+47,Wanita,4,SMA,Menengah,Wiraswasta,Suntik,Media,1
+47,Pria,3,SD,Menengah,Karyawan Swasta,Suntik,Keluarga,0
+32,Wanita,4,Perguruan Tinggi,Tinggi,Karyawan Swasta,PIL,Keluarga,1
+47,Wanita,1,Perguruan Tinggi,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+36,Wanita,1,SMP,Menengah,Karyawan Swasta,Suntik,Media,0
+29,Wanita,0,SD,Rendah,PNS,Suntik,Tenaga Kesehatan,1
+40,Wanita,0,SD,Menengah,Buruh,Suntik,Media,0
+37,Pria,1,SD,Tinggi,Wiraswasta,Implan,Tenaga Kesehatan,1
+49,Wanita,5,SD,Menengah,PNS,PIL,Keluarga,1
+42,Wanita,4,SMA,Tinggi,Wiraswasta,IUD,Media,1
+20,Wanita,1,SMP,Rendah,Karyawan Swasta,PIL,Media,1
+22,Wanita,0,SMP,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+36,Wanita,1,Perguruan Tinggi,Rendah,PNS,Tidak,Teman,1
+24,Wanita,5,SMA,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+38,Wanita,1,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+26,Wanita,4,SD,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+24,Wanita,3,SMP,Menengah,Karyawan Swasta,Suntik,Teman,0
+35,Wanita,5,SMA,Tinggi,PNS,PIL,Teman,1
+21,Pria,0,SD,Rendah,PNS,Kondom,Media,1
+42,Pria,4,SD,Rendah,Wiraswasta,Kondom,Keluarga,0
+45,Pria,1,SMA,Tinggi,PNS,IUD,Tenaga Kesehatan,0
+31,Pria,1,SMA,Rendah,PNS,IUD,Teman,1
+35,Pria,3,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+43,Pria,0,SMP,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+26,Pria,0,SMP,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+43,Pria,2,SD,Tinggi,Karyawan Swasta,PIL,Media,0
+38,Wanita,0,SMP,Menengah,Karyawan Swasta,Implan,Keluarga,0
+19,Wanita,3,SD,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+37,Pria,2,SD,Tinggi,Karyawan Swasta,PIL,Teman,0
+45,Wanita,2,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Implan,Media,1
+32,Pria,1,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+45,Wanita,1,SMA,Rendah,Ibu Rumah Tangga,IUD,Media,1
+24,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Kondom,Media,1
+29,Pria,2,SMP,Rendah,PNS,Tidak,Keluarga,0
+46,Wanita,1,SMP,Tinggi,Ibu Rumah Tangga,IUD,Media,0
+25,Wanita,3,SD,Menengah,Wiraswasta,Tidak,Media,1
+32,Wanita,1,SD,Rendah,PNS,PIL,Tenaga Kesehatan,1
+20,Wanita,5,SMA,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+31,Wanita,5,SMA,Menengah,Ibu Rumah Tangga,PIL,Teman,0
+34,Pria,1,SMA,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+21,Wanita,2,SMP,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,1
+35,Pria,2,Perguruan Tinggi,Menengah,Buruh,Implan,Media,0
+25,Wanita,4,SD,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,0
+21,Wanita,5,SMP,Menengah,Ibu Rumah Tangga,Implan,Teman,1
+19,Wanita,3,SMP,Menengah,PNS,IUD,Media,0
+47,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+23,Pria,0,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+39,Pria,5,SMP,Menengah,PNS,IUD,Tenaga Kesehatan,1
+27,Pria,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+21,Pria,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+39,Wanita,2,SMP,Menengah,Karyawan Swasta,Tidak,Teman,1
+46,Pria,3,SMP,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+48,Pria,2,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+35,Wanita,1,Perguruan Tinggi,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+43,Wanita,5,SD,Tinggi,Karyawan Swasta,Implan,Media,0
+29,Wanita,4,SMA,Menengah,Buruh,Suntik,Teman,1
+19,Wanita,1,SMP,Rendah,Ibu Rumah Tangga,Implan,Media,1
+27,Pria,5,SMA,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+47,Pria,2,SMP,Tinggi,Karyawan Swasta,Kondom,Keluarga,0
+21,Wanita,5,SMA,Tinggi,Ibu Rumah Tangga,Tidak,Keluarga,1
+31,Wanita,2,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+48,Pria,1,Perguruan Tinggi,Rendah,PNS,Tidak,Keluarga,0
+33,Wanita,0,Perguruan Tinggi,Tinggi,Wiraswasta,Tidak,Tenaga Kesehatan,1
+32,Pria,0,SD,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+25,Pria,5,SMA,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+31,Wanita,0,SD,Menengah,PNS,Implan,Media,1
+40,Wanita,2,SMP,Rendah,Wiraswasta,PIL,Media,0
+45,Wanita,3,SMA,Rendah,PNS,Suntik,Tenaga Kesehatan,0
+42,Pria,2,SMP,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+47,Wanita,3,SMA,Menengah,Wiraswasta,Suntik,Keluarga,0
+25,Pria,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Tidak,Teman,1
+38,Pria,4,SD,Rendah,Buruh,Tidak,Keluarga,1
+33,Wanita,3,SMA,Tinggi,Wiraswasta,PIL,Tenaga Kesehatan,0
+30,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+35,Wanita,2,SD,Menengah,PNS,Implan,Tenaga Kesehatan,1
+32,Wanita,1,SD,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+38,Wanita,0,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Kondom,Media,1
+41,Wanita,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+43,Pria,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,0
+42,Wanita,2,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Tidak,Media,0
+45,Pria,5,SMP,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+45,Pria,2,SMP,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+45,Wanita,4,SMA,Menengah,Buruh,Kondom,Media,1
+30,Wanita,2,SMP,Tinggi,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+26,Pria,5,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+46,Pria,3,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+32,Wanita,1,SMA,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+30,Pria,5,SMA,Rendah,Wiraswasta,Implan,Tenaga Kesehatan,1
+18,Wanita,0,SD,Menengah,Ibu Rumah Tangga,IUD,Keluarga,1
+42,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,1
+24,Wanita,3,SMA,Menengah,Wiraswasta,Kondom,Tenaga Kesehatan,1
+26,Wanita,0,SMA,Rendah,Wiraswasta,IUD,Tenaga Kesehatan,1
+41,Wanita,0,SMP,Rendah,Karyawan Swasta,PIL,Keluarga,1
+18,Pria,4,SMA,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+29,Wanita,3,SD,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+25,Wanita,0,SMP,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+41,Pria,0,SMA,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+48,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,IUD,Keluarga,1
+28,Wanita,2,SMP,Menengah,Buruh,IUD,Keluarga,0
+36,Wanita,0,SMA,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+34,Wanita,1,SMA,Menengah,PNS,IUD,Tenaga Kesehatan,1
+25,Wanita,3,SMA,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,1
+20,Wanita,0,SMA,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+20,Wanita,4,SMA,Rendah,Wiraswasta,PIL,Teman,1
+18,Wanita,5,SMP,Rendah,Wiraswasta,Suntik,Media,0
+44,Wanita,1,SD,Rendah,Karyawan Swasta,Suntik,Media,1
+22,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,IUD,Keluarga,1
+27,Wanita,5,SMP,Menengah,PNS,PIL,Keluarga,1
+24,Pria,0,SMA,Rendah,PNS,PIL,Keluarga,0
+43,Wanita,1,SMA,Rendah,PNS,PIL,Tenaga Kesehatan,0
+26,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+45,Pria,2,SD,Rendah,Wiraswasta,IUD,Media,1
+24,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+26,Pria,1,SMP,Tinggi,Karyawan Swasta,Implan,Teman,1
+25,Pria,2,SMA,Menengah,Ibu Rumah Tangga,Implan,Media,0
+29,Wanita,3,SD,Tinggi,Karyawan Swasta,Suntik,Teman,1
+19,Pria,2,SMA,Tinggi,Wiraswasta,Kondom,Tenaga Kesehatan,0
+18,Wanita,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Keluarga,0
+33,Wanita,0,SD,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+40,Wanita,3,SMP,Menengah,Karyawan Swasta,Suntik,Teman,0
+40,Pria,3,SD,Tinggi,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+47,Pria,4,SMA,Menengah,Karyawan Swasta,Implan,Media,1
+41,Wanita,2,SMA,Menengah,PNS,Suntik,Keluarga,1
+22,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Implan,Media,1
+20,Wanita,2,SMA,Tinggi,Wiraswasta,Suntik,Media,1
+29,Pria,1,Perguruan Tinggi,Menengah,Wiraswasta,Suntik,Teman,1
+25,Wanita,2,SD,Tinggi,PNS,Kondom,Media,0
+39,Wanita,3,SD,Rendah,Buruh,Kondom,Media,1
+44,Wanita,0,Perguruan Tinggi,Rendah,PNS,Suntik,Tenaga Kesehatan,0
+20,Pria,2,SMA,Rendah,PNS,Suntik,Keluarga,0
+18,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Media,0
+20,Wanita,0,SMA,Rendah,PNS,Implan,Media,1
+22,Wanita,1,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+32,Pria,1,SMP,Tinggi,Ibu Rumah Tangga,Kondom,Media,1
+31,Wanita,3,SMA,Rendah,PNS,Suntik,Tenaga Kesehatan,1
+20,Wanita,4,Perguruan Tinggi,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+18,Pria,0,SMA,Rendah,Karyawan Swasta,Tidak,Media,0
+22,Wanita,4,SD,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+43,Wanita,3,SMP,Menengah,Wiraswasta,Kondom,Tenaga Kesehatan,1
+40,Pria,0,SD,Tinggi,Ibu Rumah Tangga,Kondom,Media,0
+48,Pria,0,SMP,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+31,Wanita,5,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+24,Pria,4,SMA,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+44,Wanita,2,SMA,Rendah,PNS,Implan,Media,1
+26,Pria,1,SMP,Menengah,Ibu Rumah Tangga,IUD,Media,0
+32,Wanita,2,SMA,Tinggi,Buruh,PIL,Keluarga,1
+32,Pria,4,SD,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+43,Wanita,1,SD,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+27,Wanita,2,SD,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+45,Wanita,5,SMA,Tinggi,Karyawan Swasta,Suntik,Media,1
+30,Wanita,1,SMP,Tinggi,Buruh,Kondom,Teman,1
+36,Pria,0,SMP,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+48,Wanita,2,SMP,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+49,Pria,1,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+24,Pria,5,SD,Menengah,Buruh,Tidak,Media,1
+34,Pria,1,SMA,Menengah,PNS,Tidak,Media,1
+37,Wanita,1,SMA,Rendah,PNS,IUD,Media,1
+46,Wanita,5,SMA,Menengah,Ibu Rumah Tangga,PIL,Keluarga,0
+49,Wanita,2,Perguruan Tinggi,Rendah,Wiraswasta,Implan,Media,1
+21,Wanita,3,SD,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+47,Pria,2,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+22,Wanita,4,Perguruan Tinggi,Rendah,PNS,Suntik,Media,0
+40,Wanita,5,SMP,Menengah,PNS,Kondom,Media,1
+24,Wanita,2,SMA,Menengah,Karyawan Swasta,Suntik,Media,1
+30,Pria,1,SMA,Rendah,Ibu Rumah Tangga,PIL,Media,1
+32,Wanita,5,SMA,Rendah,Karyawan Swasta,Tidak,Media,1
+28,Wanita,0,Perguruan Tinggi,Menengah,Karyawan Swasta,IUD,Keluarga,0
+46,Pria,2,Perguruan Tinggi,Tinggi,Buruh,Tidak,Media,1
+21,Pria,5,SMA,Rendah,Ibu Rumah Tangga,PIL,Keluarga,0
+30,Wanita,2,SMP,Rendah,Buruh,Tidak,Tenaga Kesehatan,1
+49,Wanita,5,Perguruan Tinggi,Rendah,Karyawan Swasta,PIL,Media,1
+24,Pria,1,SD,Menengah,Buruh,IUD,Teman,0
+44,Wanita,0,SMP,Rendah,PNS,PIL,Tenaga Kesehatan,1
+36,Pria,0,Perguruan Tinggi,Rendah,Karyawan Swasta,Kondom,Keluarga,1
+39,Wanita,4,SMP,Menengah,Wiraswasta,Tidak,Keluarga,0
+45,Wanita,5,SMP,Menengah,Buruh,Implan,Tenaga Kesehatan,0
+19,Wanita,2,SD,Rendah,PNS,Tidak,Media,0
+27,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+30,Pria,0,SMA,Menengah,PNS,Suntik,Teman,1
+47,Pria,3,SMA,Rendah,PNS,Tidak,Keluarga,0
+42,Wanita,3,SMP,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+38,Wanita,0,SMA,Tinggi,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+23,Wanita,5,SMA,Rendah,Buruh,Tidak,Media,1
+45,Pria,4,SMP,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+45,Pria,0,SMP,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+29,Pria,1,SMP,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+29,Wanita,2,Perguruan Tinggi,Rendah,PNS,PIL,Tenaga Kesehatan,1
+37,Pria,4,SMA,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+47,Wanita,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Implan,Keluarga,1
+47,Wanita,4,SMP,Tinggi,Karyawan Swasta,Tidak,Teman,1
+28,Wanita,1,SMA,Menengah,Buruh,Implan,Keluarga,1
+49,Pria,2,SMA,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+43,Wanita,2,SMA,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+40,Wanita,3,Perguruan Tinggi,Menengah,PNS,IUD,Tenaga Kesehatan,1
+45,Wanita,5,SMP,Menengah,Buruh,PIL,Tenaga Kesehatan,0
+42,Wanita,1,SD,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+24,Wanita,3,SMA,Rendah,Karyawan Swasta,Tidak,Teman,1
+47,Wanita,1,SMA,Menengah,Karyawan Swasta,PIL,Keluarga,1
+18,Pria,3,SMA,Menengah,Buruh,Kondom,Keluarga,0
+18,Pria,2,SMP,Rendah,Ibu Rumah Tangga,Suntik,Media,0
+42,Wanita,4,SMA,Rendah,PNS,Implan,Tenaga Kesehatan,0
+44,Wanita,3,SMP,Tinggi,Wiraswasta,IUD,Media,1
+47,Wanita,1,SMP,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+42,Wanita,1,SMA,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,0
+37,Pria,5,SMA,Rendah,Karyawan Swasta,Suntik,Media,0
+30,Pria,2,SMP,Rendah,PNS,Suntik,Media,0
+26,Wanita,1,SMP,Tinggi,Karyawan Swasta,PIL,Media,1
+20,Wanita,0,SMP,Menengah,Karyawan Swasta,Implan,Media,0
+24,Pria,4,SD,Menengah,PNS,PIL,Tenaga Kesehatan,1
+23,Wanita,3,SMA,Menengah,Karyawan Swasta,IUD,Media,1
+25,Pria,5,Perguruan Tinggi,Rendah,Buruh,Suntik,Media,1
+44,Wanita,4,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+26,Pria,2,SMA,Menengah,PNS,Implan,Keluarga,0
+47,Wanita,5,Perguruan Tinggi,Rendah,PNS,IUD,Media,0
+22,Pria,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Media,0
+18,Wanita,3,SD,Menengah,Ibu Rumah Tangga,Tidak,Keluarga,0
+36,Pria,0,Perguruan Tinggi,Tinggi,Karyawan Swasta,Kondom,Keluarga,1
+27,Pria,2,SMP,Rendah,Buruh,Tidak,Keluarga,0
+29,Pria,5,SMP,Tinggi,PNS,Suntik,Tenaga Kesehatan,1
+41,Wanita,5,SD,Menengah,Wiraswasta,Kondom,Tenaga Kesehatan,0
+32,Wanita,1,SMP,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,0
+44,Pria,0,SD,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+39,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Implan,Teman,1
+49,Wanita,5,SMP,Menengah,Wiraswasta,Suntik,Media,0
+49,Wanita,5,Perguruan Tinggi,Rendah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+41,Pria,4,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+26,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+37,Pria,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Media,1
+34,Pria,0,Perguruan Tinggi,Rendah,Wiraswasta,Implan,Keluarga,0
+47,Wanita,1,SMA,Menengah,Ibu Rumah Tangga,IUD,Keluarga,1
+34,Pria,3,SD,Menengah,Karyawan Swasta,Suntik,Teman,1
+43,Wanita,4,SMA,Menengah,Buruh,Tidak,Tenaga Kesehatan,0
+37,Wanita,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+29,Wanita,2,SMA,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+47,Wanita,4,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+24,Pria,3,SMA,Menengah,Buruh,Suntik,Teman,1
+19,Pria,2,SMA,Menengah,Ibu Rumah Tangga,IUD,Media,0
+20,Wanita,2,SMA,Menengah,Karyawan Swasta,Suntik,Keluarga,1
+34,Pria,3,SD,Menengah,Karyawan Swasta,Suntik,Media,0
+22,Pria,4,SMP,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+34,Pria,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+41,Pria,3,Perguruan Tinggi,Menengah,PNS,Implan,Media,0
+34,Pria,3,SD,Menengah,Ibu Rumah Tangga,Implan,Keluarga,0
+44,Pria,3,Perguruan Tinggi,Rendah,Buruh,Tidak,Tenaga Kesehatan,1
+34,Wanita,2,SMP,Tinggi,Buruh,Implan,Keluarga,1
+19,Wanita,1,SMA,Menengah,PNS,Kondom,Keluarga,1
+19,Wanita,0,SMA,Rendah,Karyawan Swasta,Kondom,Media,0
+45,Pria,4,Perguruan Tinggi,Menengah,Karyawan Swasta,IUD,Keluarga,0
+39,Pria,4,Perguruan Tinggi,Menengah,Buruh,Suntik,Media,1
+40,Pria,1,SMP,Menengah,PNS,Tidak,Media,0
+22,Wanita,3,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Implan,Keluarga,0
+49,Wanita,0,SD,Tinggi,Ibu Rumah Tangga,Tidak,Teman,0
+18,Pria,4,SMA,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+18,Wanita,5,SMA,Menengah,PNS,PIL,Media,1
+36,Pria,4,SMA,Tinggi,PNS,Tidak,Tenaga Kesehatan,0
+47,Wanita,3,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+19,Wanita,5,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Media,0
+38,Wanita,1,SD,Tinggi,Ibu Rumah Tangga,Suntik,Teman,1
+29,Wanita,0,SD,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+43,Wanita,1,SMA,Tinggi,PNS,Tidak,Tenaga Kesehatan,1
+49,Pria,1,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+23,Wanita,0,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Media,0
+49,Pria,0,SMP,Rendah,PNS,Implan,Tenaga Kesehatan,1
+40,Wanita,4,SD,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+21,Wanita,4,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Keluarga,0
+40,Wanita,0,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+28,Wanita,5,SD,Rendah,Ibu Rumah Tangga,Implan,Media,1
+41,Wanita,2,SMA,Rendah,Buruh,Suntik,Keluarga,0
+44,Wanita,4,SMA,Menengah,PNS,Implan,Tenaga Kesehatan,0
+34,Wanita,2,SMA,Menengah,PNS,PIL,Media,0
+48,Pria,5,SMP,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+23,Pria,0,Perguruan Tinggi,Menengah,PNS,Implan,Media,1
+41,Pria,5,Perguruan Tinggi,Tinggi,Karyawan Swasta,Suntik,Media,1
+22,Pria,4,SMA,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+37,Wanita,1,SD,Rendah,Karyawan Swasta,PIL,Keluarga,1
+19,Pria,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Keluarga,1
+23,Wanita,3,SMA,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+39,Pria,2,SMA,Rendah,Buruh,PIL,Tenaga Kesehatan,1
+28,Pria,5,SMP,Rendah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+48,Wanita,0,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+33,Wanita,5,SMA,Rendah,PNS,IUD,Media,1
+33,Wanita,0,SD,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+18,Wanita,4,SMP,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+26,Wanita,4,Perguruan Tinggi,Tinggi,PNS,Kondom,Keluarga,1
+45,Pria,4,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+44,Wanita,5,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Keluarga,0
+23,Wanita,3,SMA,Menengah,Karyawan Swasta,PIL,Keluarga,1
+33,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+46,Pria,0,SMP,Menengah,Ibu Rumah Tangga,Implan,Keluarga,1
+20,Wanita,4,SMP,Rendah,Buruh,Tidak,Keluarga,1
+37,Pria,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+45,Pria,4,SMP,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+44,Pria,5,SMA,Menengah,PNS,Implan,Media,0
+21,Wanita,3,SMP,Rendah,Karyawan Swasta,IUD,Teman,1
+36,Wanita,1,SD,Rendah,PNS,Implan,Media,1
+43,Wanita,5,SD,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+20,Wanita,5,SMA,Menengah,Ibu Rumah Tangga,Kondom,Media,0
+48,Wanita,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,IUD,Media,1
+36,Pria,0,SMP,Menengah,PNS,Kondom,Media,0
+37,Pria,5,SMP,Rendah,Karyawan Swasta,PIL,Keluarga,1
+49,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Tidak,Media,0
+24,Pria,5,SMA,Tinggi,Ibu Rumah Tangga,PIL,Keluarga,0
+37,Wanita,2,SMP,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+26,Wanita,1,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Media,1
+18,Wanita,2,SMA,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+25,Wanita,5,SMA,Rendah,Karyawan Swasta,Implan,Keluarga,1
+49,Wanita,1,SD,Tinggi,PNS,Kondom,Teman,1
+24,Wanita,1,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+35,Wanita,3,SMP,Menengah,Wiraswasta,PIL,Media,0
+25,Wanita,2,SD,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+18,Pria,3,SMA,Rendah,PNS,PIL,Keluarga,1
+28,Wanita,1,SMA,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,1
+45,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+42,Pria,1,SMP,Tinggi,Karyawan Swasta,Suntik,Keluarga,1
+42,Wanita,3,SMA,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+35,Wanita,2,SD,Menengah,Karyawan Swasta,Suntik,Keluarga,1
+40,Wanita,5,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+48,Pria,5,SMA,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+47,Wanita,2,SMP,Rendah,Buruh,Suntik,Tenaga Kesehatan,1
+27,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+20,Pria,5,SMP,Menengah,Karyawan Swasta,Tidak,Media,1
+24,Pria,3,SMA,Tinggi,PNS,Kondom,Media,1
+45,Wanita,2,SMA,Tinggi,Buruh,Tidak,Tenaga Kesehatan,1
+33,Pria,4,SMP,Menengah,Buruh,PIL,Tenaga Kesehatan,1
+43,Wanita,0,SMA,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+33,Wanita,0,Perguruan Tinggi,Menengah,Karyawan Swasta,PIL,Keluarga,0
+42,Pria,5,SMP,Rendah,Buruh,PIL,Keluarga,1
+37,Wanita,0,Perguruan Tinggi,Rendah,PNS,IUD,Tenaga Kesehatan,1
+45,Wanita,2,SMP,Menengah,PNS,Suntik,Media,0
+34,Wanita,2,SD,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+19,Pria,1,SMP,Tinggi,Ibu Rumah Tangga,Suntik,Teman,1
+18,Wanita,1,SMP,Menengah,PNS,Tidak,Teman,1
+33,Pria,0,SMP,Menengah,Buruh,Suntik,Media,0
+47,Pria,4,SD,Rendah,Karyawan Swasta,Implan,Teman,0
+29,Wanita,1,Perguruan Tinggi,Rendah,PNS,Implan,Keluarga,1
+22,Pria,1,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Implan,Keluarga,1
+22,Wanita,2,SMA,Tinggi,PNS,PIL,Media,0
+49,Pria,4,SD,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+44,Wanita,5,SD,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+40,Pria,0,SD,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+26,Wanita,1,SMA,Tinggi,Ibu Rumah Tangga,Kondom,Media,1
+26,Wanita,4,Perguruan Tinggi,Rendah,PNS,Suntik,Tenaga Kesehatan,0
+20,Pria,4,SMP,Rendah,PNS,Implan,Tenaga Kesehatan,1
+36,Pria,0,SD,Menengah,Wiraswasta,IUD,Media,1
+33,Pria,4,SMA,Tinggi,PNS,Kondom,Tenaga Kesehatan,1
+33,Wanita,4,SMP,Rendah,Ibu Rumah Tangga,Implan,Media,0
+20,Pria,4,SMP,Rendah,Ibu Rumah Tangga,IUD,Teman,0
+37,Wanita,1,SMA,Tinggi,Karyawan Swasta,PIL,Keluarga,1
+41,Wanita,0,SMA,Rendah,Karyawan Swasta,PIL,Media,0
+39,Pria,4,SD,Rendah,PNS,Kondom,Media,1
+41,Wanita,4,SD,Menengah,PNS,IUD,Media,0
+18,Wanita,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+41,Pria,0,SMP,Menengah,Karyawan Swasta,Implan,Keluarga,1
+37,Pria,2,SD,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+28,Pria,1,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+34,Wanita,0,SD,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,1
+25,Wanita,4,SMP,Tinggi,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+21,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+23,Wanita,0,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+25,Wanita,5,SMP,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+37,Wanita,0,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+47,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+20,Pria,0,Perguruan Tinggi,Rendah,Wiraswasta,PIL,Media,1
+33,Pria,2,Perguruan Tinggi,Menengah,Buruh,Suntik,Keluarga,0
+47,Pria,4,SD,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+42,Pria,2,SMA,Menengah,PNS,Kondom,Keluarga,0
+20,Wanita,4,SMP,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+42,Wanita,4,Perguruan Tinggi,Rendah,PNS,Kondom,Tenaga Kesehatan,1
+46,Pria,2,SMP,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+35,Pria,1,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Media,0
+49,Wanita,3,SMA,Rendah,Karyawan Swasta,Kondom,Media,1
+31,Wanita,0,SMP,Rendah,Buruh,IUD,Media,1
+35,Pria,5,SMA,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,0
+19,Wanita,3,Perguruan Tinggi,Tinggi,Buruh,Suntik,Media,1
+39,Pria,0,Perguruan Tinggi,Tinggi,Karyawan Swasta,Suntik,Media,1
+20,Pria,0,SD,Rendah,Ibu Rumah Tangga,Implan,Teman,0
+33,Wanita,4,SMA,Tinggi,PNS,Implan,Tenaga Kesehatan,1
+46,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+26,Pria,5,SD,Rendah,Ibu Rumah Tangga,Implan,Keluarga,0
+21,Wanita,0,SMP,Tinggi,Ibu Rumah Tangga,Suntik,Media,0
+18,Wanita,2,SMP,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+21,Wanita,3,Perguruan Tinggi,Rendah,PNS,IUD,Tenaga Kesehatan,1
+18,Wanita,2,SMP,Menengah,Wiraswasta,IUD,Media,0
+31,Wanita,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Media,0
+38,Wanita,0,SD,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,1
+33,Wanita,5,SMP,Menengah,Ibu Rumah Tangga,Kondom,Teman,1
+37,Pria,4,SMP,Tinggi,Karyawan Swasta,Kondom,Keluarga,1
+41,Pria,2,SMP,Rendah,PNS,IUD,Media,0
+49,Pria,2,SD,Rendah,Ibu Rumah Tangga,Tidak,Media,0
+25,Wanita,1,SD,Menengah,Buruh,Suntik,Keluarga,0
+24,Pria,0,SMA,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+20,Wanita,4,SMP,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+34,Wanita,2,SMP,Menengah,Karyawan Swasta,Kondom,Media,1
+49,Pria,2,SMP,Tinggi,PNS,PIL,Keluarga,0
+18,Wanita,4,Perguruan Tinggi,Tinggi,PNS,IUD,Tenaga Kesehatan,0
+33,Wanita,5,Perguruan Tinggi,Tinggi,Karyawan Swasta,PIL,Teman,1
+29,Wanita,5,SMP,Tinggi,Ibu Rumah Tangga,Kondom,Media,1
+44,Pria,0,SMP,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+36,Wanita,1,SD,Tinggi,Buruh,Kondom,Tenaga Kesehatan,1
+39,Wanita,2,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+40,Wanita,1,SD,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,0
+39,Wanita,5,SMP,Rendah,Karyawan Swasta,PIL,Teman,0
+31,Wanita,5,SMP,Menengah,PNS,PIL,Media,1
+47,Wanita,3,SMP,Rendah,PNS,IUD,Teman,0
+23,Wanita,0,SD,Tinggi,Ibu Rumah Tangga,Implan,Keluarga,1
+23,Wanita,3,SMA,Rendah,Karyawan Swasta,IUD,Media,1
+30,Pria,3,SD,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+36,Wanita,3,SMA,Menengah,PNS,PIL,Media,0
+39,Wanita,0,SD,Rendah,Karyawan Swasta,Implan,Media,0
+25,Wanita,0,SD,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+44,Pria,4,Perguruan Tinggi,Rendah,PNS,PIL,Media,0
+44,Wanita,1,SD,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+19,Pria,1,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+38,Wanita,4,SMA,Menengah,Buruh,PIL,Keluarga,1
+47,Pria,4,SD,Menengah,PNS,IUD,Tenaga Kesehatan,1
+18,Wanita,5,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+45,Wanita,3,SMP,Rendah,Ibu Rumah Tangga,Kondom,Media,0
+32,Pria,4,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Suntik,Media,0
+49,Wanita,2,SD,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+18,Wanita,1,Perguruan Tinggi,Rendah,PNS,Kondom,Media,1
+22,Wanita,4,SD,Rendah,Buruh,PIL,Tenaga Kesehatan,1
+45,Wanita,2,SMA,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+46,Wanita,2,SMA,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+33,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+36,Wanita,5,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+21,Wanita,5,Perguruan Tinggi,Tinggi,PNS,Kondom,Teman,1
+20,Pria,2,Perguruan Tinggi,Tinggi,Karyawan Swasta,IUD,Media,1
+49,Wanita,5,SD,Menengah,PNS,Implan,Media,1
+34,Wanita,3,SMP,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+49,Wanita,2,SMP,Menengah,Wiraswasta,PIL,Media,1
+34,Wanita,3,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+29,Wanita,3,SMP,Tinggi,Ibu Rumah Tangga,PIL,Media,1
+45,Wanita,2,SMA,Rendah,Buruh,Suntik,Teman,1
+47,Pria,1,SD,Tinggi,PNS,Suntik,Tenaga Kesehatan,1
+46,Wanita,2,SMA,Rendah,Karyawan Swasta,PIL,Keluarga,1
+31,Pria,2,SD,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+38,Pria,5,SMP,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+23,Pria,2,SMA,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+20,Pria,1,SMA,Tinggi,PNS,IUD,Tenaga Kesehatan,1
+45,Wanita,5,SMA,Rendah,PNS,PIL,Tenaga Kesehatan,1
+26,Pria,0,SMA,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+22,Wanita,0,SD,Tinggi,Karyawan Swasta,IUD,Media,1
+41,Pria,3,SMA,Tinggi,Wiraswasta,Suntik,Tenaga Kesehatan,0
+46,Pria,3,SD,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+34,Pria,1,SMP,Rendah,Karyawan Swasta,Suntik,Teman,1
+31,Pria,4,SMP,Menengah,Karyawan Swasta,Tidak,Media,0
+38,Wanita,0,SD,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+48,Wanita,3,SMP,Tinggi,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+20,Wanita,0,Perguruan Tinggi,Tinggi,Karyawan Swasta,Tidak,Keluarga,1
+45,Wanita,1,Perguruan Tinggi,Rendah,Buruh,Implan,Media,1
+18,Pria,1,SMP,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+37,Wanita,4,SD,Rendah,Buruh,IUD,Tenaga Kesehatan,1
+48,Wanita,4,SD,Tinggi,Ibu Rumah Tangga,PIL,Media,0
+46,Wanita,5,SMP,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+38,Pria,1,Perguruan Tinggi,Menengah,Wiraswasta,Suntik,Teman,1
+49,Pria,3,SD,Menengah,Karyawan Swasta,Tidak,Keluarga,0
+40,Pria,0,SMA,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+18,Pria,2,SD,Rendah,Ibu Rumah Tangga,PIL,Media,1
+49,Wanita,4,Perguruan Tinggi,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+20,Wanita,2,SMP,Tinggi,PNS,Implan,Media,0
+49,Wanita,3,SMA,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,0
+35,Wanita,4,SMP,Menengah,Karyawan Swasta,Kondom,Media,1
+42,Wanita,2,SMA,Rendah,PNS,IUD,Tenaga Kesehatan,1
+27,Wanita,3,SD,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+48,Wanita,0,SD,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,1
+39,Pria,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Media,0
+43,Pria,5,Perguruan Tinggi,Tinggi,Karyawan Swasta,Tidak,Media,1
+20,Pria,4,Perguruan Tinggi,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+25,Wanita,1,SMA,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+31,Wanita,0,Perguruan Tinggi,Tinggi,Buruh,IUD,Teman,1
+41,Pria,2,SD,Tinggi,Buruh,PIL,Media,1
+35,Wanita,4,SMP,Rendah,Karyawan Swasta,Suntik,Media,0
+49,Pria,1,SMP,Menengah,Ibu Rumah Tangga,PIL,Media,0
+32,Wanita,3,SMA,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+39,Pria,1,SMP,Rendah,PNS,PIL,Tenaga Kesehatan,0
+40,Pria,4,SD,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+19,Wanita,4,SMA,Menengah,Karyawan Swasta,Suntik,Media,1
+48,Pria,5,Perguruan Tinggi,Tinggi,PNS,Implan,Media,1
+44,Pria,5,SMP,Menengah,Wiraswasta,PIL,Keluarga,1
+27,Pria,1,SD,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+19,Wanita,3,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+43,Wanita,1,SMP,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+34,Pria,4,SMP,Tinggi,Wiraswasta,Tidak,Teman,0
+25,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,IUD,Media,0
+18,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,Implan,Media,1
+26,Pria,5,SMA,Rendah,PNS,Suntik,Media,0
+28,Wanita,2,SMP,Menengah,PNS,PIL,Media,0
+39,Pria,0,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+33,Pria,4,SMP,Menengah,Karyawan Swasta,Implan,Keluarga,0
+24,Wanita,2,SMP,Rendah,PNS,PIL,Keluarga,1
+46,Pria,1,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Implan,Media,1
+27,Wanita,5,SD,Menengah,PNS,Suntik,Media,1
+40,Wanita,5,SD,Tinggi,Buruh,Suntik,Tenaga Kesehatan,1
+43,Pria,3,Perguruan Tinggi,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+20,Wanita,1,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+35,Pria,3,SMA,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+42,Wanita,2,SD,Rendah,PNS,Tidak,Teman,0
+41,Wanita,0,SMA,Menengah,Ibu Rumah Tangga,PIL,Keluarga,0
+30,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,Tidak,Media,0
+45,Wanita,1,SD,Tinggi,Buruh,PIL,Media,1
+43,Pria,1,SMA,Tinggi,Wiraswasta,Tidak,Tenaga Kesehatan,1
+24,Wanita,3,SMP,Rendah,PNS,Implan,Teman,0
+42,Wanita,2,SMP,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+21,Wanita,1,SD,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+30,Wanita,1,SD,Tinggi,PNS,PIL,Media,1
+37,Wanita,5,SMP,Rendah,Karyawan Swasta,IUD,Keluarga,1
+18,Pria,0,SD,Rendah,Ibu Rumah Tangga,PIL,Keluarga,1
+25,Pria,5,Perguruan Tinggi,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,1
+49,Wanita,5,SD,Rendah,PNS,Suntik,Keluarga,1
+31,Wanita,0,SMP,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+33,Wanita,2,SD,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+31,Wanita,5,SMP,Menengah,Karyawan Swasta,Suntik,Keluarga,1
+29,Pria,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Keluarga,0
+36,Pria,5,SD,Rendah,Karyawan Swasta,Implan,Media,0
+40,Wanita,4,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Media,1
+32,Pria,0,SMP,Tinggi,Karyawan Swasta,Implan,Keluarga,1
+45,Wanita,5,SMA,Tinggi,Karyawan Swasta,Tidak,Keluarga,1
+19,Wanita,4,SMA,Menengah,Wiraswasta,IUD,Keluarga,1
+19,Wanita,3,Perguruan Tinggi,Menengah,Karyawan Swasta,PIL,Media,1
+49,Pria,4,SMA,Tinggi,Karyawan Swasta,Suntik,Teman,1
+40,Wanita,1,SMA,Rendah,Buruh,IUD,Teman,0
+48,Wanita,5,SD,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+39,Wanita,4,SD,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,1
+36,Pria,2,Perguruan Tinggi,Rendah,PNS,PIL,Media,1
+42,Wanita,3,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+43,Wanita,5,SMP,Tinggi,Buruh,Implan,Media,1
+48,Pria,1,SMA,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+47,Pria,4,SMP,Menengah,Karyawan Swasta,IUD,Media,1
+46,Pria,3,Perguruan Tinggi,Tinggi,Karyawan Swasta,Kondom,Keluarga,0
+39,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+43,Wanita,3,SMA,Rendah,Karyawan Swasta,IUD,Media,0
+43,Wanita,1,Perguruan Tinggi,Menengah,Buruh,PIL,Teman,1
+39,Pria,4,SD,Menengah,Ibu Rumah Tangga,Kondom,Media,1
+34,Pria,3,SMP,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+37,Wanita,3,SMP,Menengah,Karyawan Swasta,Tidak,Media,0
+27,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Implan,Media,1
+23,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+32,Pria,0,Perguruan Tinggi,Menengah,Wiraswasta,Tidak,Keluarga,1
+39,Wanita,4,SMP,Rendah,PNS,Tidak,Media,1
+28,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,Implan,Keluarga,1
+45,Wanita,5,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Media,1
+22,Wanita,4,SMP,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+18,Wanita,4,SMP,Tinggi,Karyawan Swasta,Implan,Media,1
+25,Wanita,2,SMP,Menengah,Karyawan Swasta,PIL,Keluarga,0
+38,Pria,4,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Media,0
+45,Pria,3,SMA,Menengah,Buruh,PIL,Tenaga Kesehatan,0
+29,Wanita,5,SMA,Menengah,PNS,PIL,Tenaga Kesehatan,1
+29,Wanita,1,Perguruan Tinggi,Rendah,PNS,PIL,Tenaga Kesehatan,0
+22,Pria,5,SMP,Tinggi,PNS,Suntik,Tenaga Kesehatan,1
+24,Pria,0,SMP,Tinggi,PNS,Suntik,Media,1
+21,Pria,5,Perguruan Tinggi,Menengah,Buruh,IUD,Tenaga Kesehatan,1
+23,Wanita,2,SMP,Rendah,Wiraswasta,IUD,Keluarga,1
+30,Pria,4,SMA,Menengah,PNS,IUD,Tenaga Kesehatan,1
+49,Pria,4,Perguruan Tinggi,Menengah,Buruh,Suntik,Tenaga Kesehatan,0
+37,Pria,5,SMA,Rendah,Karyawan Swasta,PIL,Media,1
+47,Pria,1,SMA,Rendah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+32,Pria,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,IUD,Keluarga,1
+20,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+40,Pria,0,SMP,Menengah,Ibu Rumah Tangga,PIL,Media,1
+25,Wanita,5,SD,Menengah,Buruh,Kondom,Keluarga,1
+37,Pria,4,SMP,Menengah,Ibu Rumah Tangga,IUD,Media,0
+33,Wanita,5,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+30,Wanita,2,SMP,Tinggi,PNS,Tidak,Media,1
+35,Wanita,3,SMA,Rendah,PNS,Tidak,Keluarga,0
+45,Wanita,3,SMP,Menengah,Karyawan Swasta,Implan,Teman,0
+27,Pria,2,SMA,Menengah,Buruh,Kondom,Keluarga,0
+47,Pria,4,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+36,Wanita,2,SMA,Tinggi,Buruh,Tidak,Teman,1
+34,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+41,Wanita,1,SMP,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+48,Wanita,2,SMP,Tinggi,PNS,Implan,Keluarga,0
+36,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+45,Wanita,2,SMP,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+43,Pria,2,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+40,Wanita,4,Perguruan Tinggi,Tinggi,Karyawan Swasta,PIL,Media,1
+43,Wanita,4,SMA,Rendah,Karyawan Swasta,Suntik,Keluarga,1
+22,Pria,0,Perguruan Tinggi,Menengah,Karyawan Swasta,Suntik,Media,1
+43,Wanita,2,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+38,Pria,3,SMP,Rendah,Ibu Rumah Tangga,Implan,Media,0
+47,Wanita,2,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Teman,1
+40,Pria,2,SMA,Rendah,Ibu Rumah Tangga,IUD,Keluarga,1
+48,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+26,Wanita,2,SMP,Menengah,PNS,Kondom,Teman,1
+29,Pria,5,SMP,Menengah,Karyawan Swasta,Implan,Keluarga,1
+38,Wanita,2,SD,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+18,Wanita,5,SMP,Tinggi,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+43,Wanita,3,SD,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+43,Pria,4,SD,Rendah,PNS,Suntik,Keluarga,0
+18,Pria,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+32,Pria,5,SMP,Menengah,Karyawan Swasta,Suntik,Media,1
+19,Wanita,5,SMA,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+49,Wanita,5,Perguruan Tinggi,Tinggi,Karyawan Swasta,Implan,Teman,1
+47,Wanita,1,SMA,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+39,Wanita,0,SD,Rendah,Karyawan Swasta,IUD,Teman,1
+33,Wanita,3,SMA,Menengah,PNS,PIL,Teman,0
+42,Wanita,2,SMA,Menengah,Wiraswasta,PIL,Tenaga Kesehatan,0
+25,Pria,1,SMA,Rendah,Buruh,Tidak,Media,0
+30,Wanita,2,SMA,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+38,Pria,2,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Teman,0
+18,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+33,Wanita,4,SMP,Rendah,PNS,Tidak,Tenaga Kesehatan,1
+46,Wanita,4,SMA,Rendah,PNS,Implan,Tenaga Kesehatan,1
+24,Pria,1,SD,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+49,Pria,2,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Teman,0
+48,Pria,0,SD,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+22,Pria,3,SMP,Tinggi,Wiraswasta,Suntik,Keluarga,1
+39,Pria,4,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+46,Wanita,4,SMA,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+40,Wanita,2,SMP,Rendah,Wiraswasta,Suntik,Teman,1
+20,Pria,2,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+29,Pria,1,Perguruan Tinggi,Tinggi,Karyawan Swasta,Suntik,Teman,1
+43,Wanita,1,SMP,Menengah,PNS,IUD,Tenaga Kesehatan,1
+33,Wanita,4,Perguruan Tinggi,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+36,Wanita,2,SD,Rendah,PNS,Tidak,Media,1
+22,Wanita,0,SMA,Menengah,PNS,Suntik,Teman,1
+39,Wanita,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Teman,1
+42,Wanita,2,SD,Rendah,PNS,Suntik,Tenaga Kesehatan,1
+46,Wanita,2,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+31,Pria,5,SD,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+45,Wanita,1,SMA,Tinggi,PNS,Suntik,Media,1
+22,Pria,3,SMA,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,0
+32,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+34,Pria,2,SD,Menengah,Ibu Rumah Tangga,Tidak,Teman,0
+47,Wanita,4,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Media,0
+31,Wanita,2,SD,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+47,Wanita,4,SMP,Rendah,Buruh,Tidak,Media,0
+37,Wanita,3,SMA,Rendah,Ibu Rumah Tangga,Implan,Media,1
+22,Pria,1,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Teman,0
+29,Pria,3,SMA,Menengah,Ibu Rumah Tangga,Kondom,Media,1
+33,Wanita,5,SMP,Tinggi,Buruh,PIL,Keluarga,0
+43,Pria,0,Perguruan Tinggi,Tinggi,PNS,Tidak,Teman,1
+43,Wanita,1,SMA,Menengah,PNS,Implan,Media,0
+33,Pria,3,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Media,1
+38,Wanita,5,SMA,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+24,Wanita,0,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+21,Wanita,5,SD,Tinggi,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+18,Pria,2,SMA,Rendah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+47,Wanita,2,SD,Rendah,PNS,PIL,Tenaga Kesehatan,1
+47,Wanita,4,SMP,Menengah,PNS,IUD,Tenaga Kesehatan,0
+22,Wanita,1,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+40,Wanita,2,SMA,Menengah,PNS,Implan,Media,1
+43,Wanita,5,SMA,Menengah,Buruh,Kondom,Tenaga Kesehatan,0
+27,Pria,1,SD,Menengah,PNS,Kondom,Tenaga Kesehatan,0
+39,Wanita,2,SMP,Tinggi,Karyawan Swasta,Tidak,Media,0
+22,Pria,4,SMA,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+21,Pria,3,Perguruan Tinggi,Menengah,Buruh,IUD,Media,1
+19,Pria,4,SMA,Menengah,Karyawan Swasta,Tidak,Media,0
+37,Pria,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,1
+48,Pria,2,SMA,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+27,Pria,0,SMA,Rendah,PNS,Suntik,Media,1
+43,Wanita,0,SD,Menengah,Wiraswasta,Tidak,Teman,1
+36,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,Kondom,Keluarga,0
+43,Wanita,1,SMA,Tinggi,PNS,Implan,Media,0
+49,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+18,Pria,2,SMP,Menengah,PNS,PIL,Tenaga Kesehatan,1
+41,Wanita,0,SMA,Rendah,Karyawan Swasta,Implan,Media,1
+22,Wanita,3,SMP,Rendah,Wiraswasta,Implan,Teman,1
+30,Pria,0,SMA,Menengah,Karyawan Swasta,PIL,Media,1
+21,Wanita,3,SD,Tinggi,Buruh,PIL,Teman,0
+33,Pria,5,Perguruan Tinggi,Menengah,Karyawan Swasta,PIL,Media,0
+41,Wanita,5,SD,Tinggi,Ibu Rumah Tangga,Suntik,Teman,1
+33,Wanita,1,SD,Menengah,PNS,Tidak,Media,0
+40,Pria,0,SMP,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+19,Pria,4,SMA,Rendah,Wiraswasta,IUD,Media,0
+34,Wanita,5,SMP,Tinggi,Buruh,Suntik,Tenaga Kesehatan,1
+45,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+49,Pria,1,SMA,Tinggi,Ibu Rumah Tangga,PIL,Keluarga,1
+49,Wanita,3,SMP,Tinggi,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+44,Pria,1,Perguruan Tinggi,Tinggi,Wiraswasta,Kondom,Keluarga,1
+37,Wanita,0,Perguruan Tinggi,Menengah,Buruh,PIL,Tenaga Kesehatan,1
+41,Wanita,2,SMA,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+29,Pria,2,SMP,Menengah,PNS,Tidak,Teman,1
+35,Pria,3,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+20,Pria,5,SD,Menengah,PNS,PIL,Media,0
+45,Pria,3,SMP,Rendah,Ibu Rumah Tangga,PIL,Media,1
+18,Pria,5,SMP,Menengah,Karyawan Swasta,IUD,Media,0
+18,Wanita,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Suntik,Teman,1
+46,Pria,2,SD,Rendah,Ibu Rumah Tangga,Suntik,Media,0
+36,Wanita,3,SMA,Rendah,Buruh,IUD,Media,0
+28,Wanita,1,SMA,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+22,Wanita,5,SMP,Menengah,PNS,Implan,Tenaga Kesehatan,0
+29,Wanita,4,SD,Rendah,Karyawan Swasta,PIL,Media,1
+20,Pria,4,Perguruan Tinggi,Menengah,PNS,IUD,Teman,0
+18,Wanita,1,SMA,Rendah,Karyawan Swasta,Suntik,Media,1
+18,Wanita,4,SMA,Menengah,Karyawan Swasta,Implan,Keluarga,1
+25,Wanita,0,SMP,Menengah,Karyawan Swasta,IUD,Media,1
+27,Pria,5,SMP,Menengah,Karyawan Swasta,PIL,Keluarga,1
+28,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,Tidak,Teman,1
+29,Wanita,3,SD,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+46,Pria,5,SD,Menengah,PNS,IUD,Tenaga Kesehatan,1
+30,Pria,1,Perguruan Tinggi,Menengah,PNS,Implan,Media,1
+29,Wanita,2,SMP,Menengah,Karyawan Swasta,Suntik,Keluarga,1
+48,Wanita,3,SD,Menengah,PNS,Kondom,Tenaga Kesehatan,1
+31,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+19,Wanita,5,SMA,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+46,Pria,3,SD,Menengah,Wiraswasta,Suntik,Teman,1
+36,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,Implan,Media,1
+35,Wanita,1,SD,Rendah,Karyawan Swasta,Suntik,Media,1
+20,Pria,5,SD,Rendah,PNS,Tidak,Tenaga Kesehatan,1
+40,Pria,0,SD,Tinggi,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+34,Wanita,3,Perguruan Tinggi,Menengah,PNS,PIL,Tenaga Kesehatan,1
+43,Pria,3,SD,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+25,Wanita,5,SD,Rendah,Karyawan Swasta,Implan,Teman,1
+46,Pria,5,SMP,Menengah,Buruh,IUD,Teman,1
+43,Pria,2,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+27,Pria,4,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+43,Wanita,2,SMP,Rendah,Wiraswasta,Kondom,Tenaga Kesehatan,0
+47,Wanita,2,SD,Tinggi,PNS,Tidak,Media,1
+19,Wanita,4,SMP,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+36,Wanita,0,SMA,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+26,Pria,2,SMA,Tinggi,PNS,Kondom,Tenaga Kesehatan,1
+24,Wanita,2,SMP,Menengah,Karyawan Swasta,Implan,Keluarga,1
+21,Wanita,3,SMP,Rendah,Ibu Rumah Tangga,Kondom,Keluarga,0
+43,Wanita,4,SD,Rendah,Ibu Rumah Tangga,PIL,Media,0
+38,Pria,1,SMP,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+35,Wanita,0,SD,Rendah,Buruh,Suntik,Teman,1
+30,Pria,0,SMA,Tinggi,Ibu Rumah Tangga,IUD,Teman,1
+28,Pria,4,Perguruan Tinggi,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+46,Wanita,5,Perguruan Tinggi,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+41,Wanita,5,Perguruan Tinggi,Tinggi,Karyawan Swasta,IUD,Media,0
+21,Pria,3,SMA,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+42,Pria,3,SMA,Rendah,PNS,Implan,Media,1
+38,Wanita,4,SMP,Menengah,PNS,Suntik,Media,1
+46,Wanita,3,SMA,Tinggi,PNS,Tidak,Media,0
+42,Wanita,0,SMP,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+21,Wanita,0,SMP,Rendah,Wiraswasta,Suntik,Media,0
+27,Wanita,1,SMA,Menengah,Wiraswasta,Kondom,Teman,1
+22,Pria,5,SMP,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+26,Wanita,4,SMP,Tinggi,Buruh,Kondom,Media,1
+41,Wanita,2,Perguruan Tinggi,Rendah,PNS,IUD,Tenaga Kesehatan,1
+49,Pria,5,SD,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+20,Wanita,2,SMP,Tinggi,Buruh,Suntik,Media,0
+34,Pria,1,Perguruan Tinggi,Menengah,PNS,PIL,Tenaga Kesehatan,1
+20,Wanita,1,SMA,Menengah,Wiraswasta,Kondom,Tenaga Kesehatan,1
+33,Wanita,3,SMA,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+21,Wanita,1,SMP,Rendah,Karyawan Swasta,Implan,Media,1
+35,Wanita,1,SMP,Rendah,Karyawan Swasta,Implan,Keluarga,0
+34,Wanita,2,Perguruan Tinggi,Tinggi,Wiraswasta,Tidak,Tenaga Kesehatan,1
+24,Wanita,3,SMA,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+49,Wanita,1,SMA,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+41,Pria,5,SD,Menengah,Karyawan Swasta,IUD,Media,0
+40,Wanita,1,SD,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+47,Pria,3,Perguruan Tinggi,Menengah,Karyawan Swasta,Suntik,Media,0
+49,Wanita,4,SMP,Menengah,Karyawan Swasta,PIL,Teman,1
+22,Wanita,3,SMA,Tinggi,Karyawan Swasta,IUD,Teman,1
+29,Wanita,2,SD,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+34,Pria,4,SMA,Menengah,PNS,Suntik,Keluarga,1
+40,Pria,5,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+30,Wanita,0,SMA,Tinggi,PNS,Kondom,Teman,0
+40,Pria,3,SD,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+42,Pria,2,SMA,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,0
+20,Pria,5,SMA,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+26,Wanita,4,SMP,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+47,Wanita,5,Perguruan Tinggi,Menengah,PNS,Suntik,Keluarga,0
+34,Pria,3,SMA,Menengah,PNS,Implan,Teman,0
+34,Pria,1,Perguruan Tinggi,Rendah,PNS,IUD,Media,0
+47,Pria,3,SMA,Menengah,PNS,Tidak,Keluarga,0
+37,Wanita,0,SD,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+33,Wanita,3,SMP,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+42,Pria,4,SMP,Rendah,PNS,Suntik,Tenaga Kesehatan,0
+39,Pria,4,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+30,Pria,3,SMA,Tinggi,PNS,Implan,Tenaga Kesehatan,1
+44,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+36,Wanita,1,SMP,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+34,Pria,5,SD,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+21,Pria,3,SMA,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+29,Pria,1,SMP,Rendah,Karyawan Swasta,Suntik,Teman,1
+46,Wanita,5,SMP,Menengah,PNS,Suntik,Tenaga Kesehatan,1
+26,Pria,5,SMA,Menengah,Wiraswasta,IUD,Media,1
+36,Wanita,1,SD,Menengah,Karyawan Swasta,IUD,Media,1
+29,Wanita,2,SMP,Menengah,Karyawan Swasta,Tidak,Media,1
+26,Pria,3,SMP,Menengah,PNS,Kondom,Tenaga Kesehatan,1
+24,Pria,5,SD,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,1
+45,Pria,5,Perguruan Tinggi,Rendah,Buruh,Suntik,Tenaga Kesehatan,1
+31,Wanita,4,SMP,Tinggi,Buruh,PIL,Tenaga Kesehatan,1
+48,Wanita,5,SD,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+49,Wanita,1,SMP,Rendah,Ibu Rumah Tangga,Implan,Media,1
+37,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,PIL,Media,0
+36,Pria,2,SMP,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+43,Wanita,3,SMA,Tinggi,Buruh,Kondom,Media,1
+32,Wanita,3,SD,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+33,Pria,5,SD,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,1
+38,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+22,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,0
+20,Wanita,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,1
+29,Wanita,0,SD,Menengah,Karyawan Swasta,Tidak,Media,1
+42,Wanita,1,SMA,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+37,Wanita,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Media,1
+44,Pria,1,SMP,Rendah,PNS,Kondom,Tenaga Kesehatan,1
+38,Pria,0,Perguruan Tinggi,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+21,Wanita,5,SD,Menengah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+38,Pria,4,Perguruan Tinggi,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+40,Pria,0,SMA,Rendah,Karyawan Swasta,Suntik,Media,1
+33,Wanita,1,Perguruan Tinggi,Tinggi,Karyawan Swasta,Tidak,Keluarga,0
+42,Wanita,2,SMA,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+24,Wanita,3,SMP,Rendah,Ibu Rumah Tangga,Suntik,Teman,1
+30,Wanita,0,Perguruan Tinggi,Menengah,Wiraswasta,IUD,Teman,1
+38,Pria,1,SMP,Menengah,Buruh,Suntik,Teman,1
+27,Pria,4,SMP,Menengah,Wiraswasta,Suntik,Keluarga,0
+43,Pria,0,SMA,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+24,Wanita,0,SMA,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,1
+31,Wanita,3,Perguruan Tinggi,Rendah,Buruh,Suntik,Media,1
+48,Pria,1,SMP,Tinggi,Buruh,PIL,Media,1
+43,Wanita,2,SMA,Menengah,Ibu Rumah Tangga,IUD,Keluarga,1
+22,Wanita,4,SMA,Rendah,Karyawan Swasta,Tidak,Teman,0
+20,Wanita,1,SD,Menengah,Wiraswasta,IUD,Media,0
+40,Wanita,4,SMP,Tinggi,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+46,Pria,0,SMP,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+28,Wanita,3,SMP,Rendah,Wiraswasta,IUD,Tenaga Kesehatan,0
+28,Wanita,3,Perguruan Tinggi,Rendah,PNS,Implan,Media,1
+35,Wanita,5,SMA,Menengah,Karyawan Swasta,Suntik,Media,1
+32,Wanita,2,SMA,Rendah,PNS,Kondom,Keluarga,1
+29,Wanita,3,Perguruan Tinggi,Tinggi,Wiraswasta,Tidak,Media,1
+26,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Tidak,Teman,1
+27,Pria,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Kondom,Media,0
+43,Wanita,1,SMP,Menengah,Karyawan Swasta,IUD,Keluarga,0
+29,Wanita,3,Perguruan Tinggi,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+34,Wanita,2,SD,Menengah,Karyawan Swasta,Implan,Keluarga,1
+46,Pria,0,Perguruan Tinggi,Menengah,Wiraswasta,PIL,Media,0
+23,Pria,5,SMP,Rendah,Wiraswasta,Kondom,Tenaga Kesehatan,1
+24,Pria,4,SMP,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+31,Wanita,4,SMA,Menengah,PNS,PIL,Teman,1
+30,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+25,Pria,0,SMA,Menengah,PNS,IUD,Media,1
+27,Wanita,4,SMP,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+26,Wanita,5,SMA,Menengah,Wiraswasta,Suntik,Media,1
+35,Wanita,2,SMP,Tinggi,Buruh,Implan,Keluarga,1
+44,Wanita,4,SD,Tinggi,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+43,Wanita,0,SMP,Tinggi,Ibu Rumah Tangga,PIL,Media,0
+19,Wanita,3,SMP,Rendah,Karyawan Swasta,Implan,Teman,0
+22,Pria,1,SD,Rendah,Karyawan Swasta,Kondom,Keluarga,0
+46,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,0
+22,Wanita,5,SMP,Tinggi,Buruh,Implan,Media,1
+23,Wanita,3,SD,Tinggi,Wiraswasta,Implan,Tenaga Kesehatan,1
+36,Wanita,3,SMA,Tinggi,PNS,Kondom,Media,1
+25,Wanita,0,Perguruan Tinggi,Rendah,Buruh,Tidak,Keluarga,1
+33,Pria,4,SD,Tinggi,PNS,IUD,Tenaga Kesehatan,0
+30,Wanita,2,SMA,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+18,Pria,5,SMA,Rendah,PNS,Kondom,Tenaga Kesehatan,1
+39,Pria,5,SMP,Menengah,Ibu Rumah Tangga,Suntik,Media,0
+37,Wanita,3,SMA,Rendah,Wiraswasta,PIL,Keluarga,0
+34,Wanita,4,SMP,Menengah,PNS,Suntik,Tenaga Kesehatan,1
+48,Pria,5,SMA,Rendah,Karyawan Swasta,PIL,Media,1
+24,Wanita,2,SD,Menengah,PNS,Suntik,Teman,1
+42,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+30,Pria,2,SMA,Tinggi,Ibu Rumah Tangga,Tidak,Media,1
+21,Wanita,4,SD,Menengah,PNS,Implan,Teman,1
+21,Wanita,5,SMP,Menengah,Karyawan Swasta,IUD,Teman,1
+23,Wanita,1,Perguruan Tinggi,Tinggi,PNS,IUD,Tenaga Kesehatan,0
+45,Pria,5,SMP,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+48,Pria,4,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+36,Wanita,5,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Keluarga,0
+46,Wanita,5,SMA,Rendah,PNS,PIL,Keluarga,1
+29,Pria,0,SMA,Rendah,Wiraswasta,Kondom,Media,1
+39,Wanita,5,SMA,Menengah,PNS,Implan,Tenaga Kesehatan,0
+24,Pria,5,Perguruan Tinggi,Tinggi,PNS,Implan,Tenaga Kesehatan,1
+44,Wanita,2,SMP,Rendah,Ibu Rumah Tangga,Implan,Media,0
+27,Pria,1,SMP,Tinggi,PNS,Tidak,Media,1
+43,Wanita,2,SMP,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,1
+36,Pria,2,Perguruan Tinggi,Tinggi,Karyawan Swasta,Kondom,Media,1
+24,Pria,3,SMA,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+47,Pria,0,SD,Tinggi,PNS,Tidak,Tenaga Kesehatan,0
+20,Pria,2,Perguruan Tinggi,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+30,Wanita,4,SMP,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+30,Wanita,4,SD,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+35,Pria,5,SMA,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+45,Wanita,3,SMP,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+47,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+43,Wanita,0,SMP,Rendah,PNS,IUD,Keluarga,0
+37,Wanita,5,Perguruan Tinggi,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+45,Pria,4,SMA,Menengah,Karyawan Swasta,Suntik,Media,1
+25,Wanita,1,SD,Rendah,Karyawan Swasta,Implan,Keluarga,1
+46,Wanita,3,Perguruan Tinggi,Tinggi,Buruh,Kondom,Media,0
+48,Pria,5,SMA,Rendah,Ibu Rumah Tangga,Tidak,Teman,1
+26,Wanita,3,SMP,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+24,Pria,4,SMP,Rendah,Ibu Rumah Tangga,IUD,Keluarga,0
+18,Wanita,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Teman,1
+20,Pria,1,SMP,Rendah,Ibu Rumah Tangga,IUD,Keluarga,1
+30,Wanita,1,SD,Rendah,PNS,PIL,Tenaga Kesehatan,1
+45,Wanita,0,SD,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+47,Wanita,3,SMP,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+42,Pria,3,SMA,Rendah,PNS,PIL,Media,0
+48,Wanita,4,SMP,Menengah,Karyawan Swasta,PIL,Keluarga,1
+45,Wanita,0,SMP,Tinggi,PNS,IUD,Tenaga Kesehatan,1
+34,Wanita,5,SD,Rendah,Ibu Rumah Tangga,IUD,Media,1
+42,Wanita,3,SMP,Rendah,Karyawan Swasta,Suntik,Media,0
+41,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+18,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,0
+23,Pria,4,Perguruan Tinggi,Menengah,PNS,IUD,Keluarga,0
+38,Wanita,0,SMP,Rendah,Wiraswasta,IUD,Tenaga Kesehatan,0
+23,Wanita,1,SD,Rendah,Karyawan Swasta,Tidak,Media,0
+43,Pria,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+29,Pria,2,SMP,Rendah,Buruh,Tidak,Media,1
+30,Pria,4,SMA,Menengah,Karyawan Swasta,PIL,Teman,0
+49,Wanita,5,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Keluarga,0
+30,Wanita,2,SD,Rendah,Buruh,IUD,Media,0
+46,Wanita,1,SD,Tinggi,PNS,Implan,Tenaga Kesehatan,0
+32,Wanita,2,SMA,Tinggi,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+38,Wanita,4,SMP,Menengah,Karyawan Swasta,Suntik,Media,1
+33,Pria,4,SD,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+39,Pria,0,SD,Rendah,Karyawan Swasta,Suntik,Media,0
+38,Wanita,3,SD,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,0
+28,Pria,0,SMA,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,1
+45,Pria,4,SD,Tinggi,Wiraswasta,PIL,Tenaga Kesehatan,0
+22,Wanita,1,SMP,Rendah,Buruh,Implan,Teman,0
+21,Wanita,5,SMA,Menengah,Buruh,PIL,Keluarga,1
+20,Wanita,1,SMP,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+36,Wanita,0,SD,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+37,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,Implan,Media,0
+42,Wanita,4,SD,Menengah,PNS,PIL,Tenaga Kesehatan,1
+35,Wanita,1,SMA,Rendah,Buruh,Suntik,Media,1
+32,Wanita,4,Perguruan Tinggi,Tinggi,Karyawan Swasta,PIL,Keluarga,1
+26,Pria,5,SMP,Rendah,Karyawan Swasta,PIL,Media,0
+34,Wanita,5,SMA,Tinggi,Ibu Rumah Tangga,PIL,Media,1
+31,Wanita,1,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Media,0
+32,Pria,4,SMP,Rendah,Karyawan Swasta,PIL,Teman,0
+48,Wanita,2,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Kondom,Teman,0
+18,Wanita,4,Perguruan Tinggi,Rendah,PNS,PIL,Media,1
+38,Pria,5,SMP,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+39,Pria,4,SMA,Menengah,PNS,Suntik,Media,0
+39,Pria,0,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+20,Pria,2,Perguruan Tinggi,Rendah,PNS,Tidak,Media,1
+33,Pria,3,SMA,Rendah,Karyawan Swasta,Tidak,Media,1
+40,Wanita,0,SMP,Tinggi,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+42,Pria,3,SMP,Rendah,Buruh,Suntik,Tenaga Kesehatan,1
+28,Wanita,1,Perguruan Tinggi,Menengah,PNS,Implan,Media,1
+29,Pria,3,SD,Menengah,Karyawan Swasta,Implan,Keluarga,0
+27,Wanita,4,SMA,Tinggi,Karyawan Swasta,Tidak,Media,1
+49,Pria,3,SMP,Rendah,Ibu Rumah Tangga,Suntik,Media,0
+33,Wanita,5,SMP,Menengah,Buruh,Suntik,Tenaga Kesehatan,0
+25,Wanita,0,SMP,Menengah,Karyawan Swasta,IUD,Media,1
+23,Wanita,0,Perguruan Tinggi,Menengah,PNS,PIL,Media,0
+29,Pria,3,SD,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+41,Wanita,0,SMA,Rendah,Wiraswasta,IUD,Tenaga Kesehatan,1
+45,Wanita,5,SD,Rendah,Karyawan Swasta,Implan,Media,0
+38,Wanita,0,SD,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+25,Pria,3,SMP,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+43,Pria,2,SMA,Menengah,Buruh,PIL,Teman,1
+45,Wanita,2,SMP,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+21,Wanita,1,SMP,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+43,Wanita,0,SD,Tinggi,PNS,Tidak,Media,1
+25,Wanita,3,SMP,Menengah,Karyawan Swasta,Kondom,Keluarga,0
+43,Wanita,0,Perguruan Tinggi,Rendah,PNS,PIL,Media,1
+45,Pria,4,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,0
+35,Wanita,5,SMP,Rendah,Karyawan Swasta,IUD,Keluarga,1
+45,Pria,0,SMA,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,1
+45,Wanita,0,Perguruan Tinggi,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+22,Wanita,2,SD,Menengah,PNS,Implan,Tenaga Kesehatan,1
+26,Wanita,5,Perguruan Tinggi,Tinggi,Karyawan Swasta,Implan,Keluarga,0
+21,Pria,3,Perguruan Tinggi,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+49,Pria,0,SD,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+44,Pria,2,SD,Menengah,Karyawan Swasta,Tidak,Media,1
+39,Pria,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Implan,Media,0
+48,Pria,5,SMA,Rendah,Wiraswasta,Tidak,Media,0
+34,Wanita,2,SD,Menengah,Karyawan Swasta,Tidak,Media,1
+26,Pria,2,SMP,Menengah,Buruh,PIL,Tenaga Kesehatan,1
+18,Pria,2,SMP,Menengah,Karyawan Swasta,PIL,Media,1
+38,Wanita,0,SMA,Tinggi,Buruh,Tidak,Media,0
+37,Wanita,0,SMA,Rendah,Ibu Rumah Tangga,Implan,Teman,1
+30,Wanita,1,Perguruan Tinggi,Rendah,PNS,PIL,Tenaga Kesehatan,1
+45,Pria,4,SMP,Menengah,Buruh,IUD,Keluarga,0
+33,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,Suntik,Media,0
+46,Pria,4,SMA,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+30,Pria,5,SMP,Menengah,Karyawan Swasta,PIL,Keluarga,0
+31,Wanita,5,SD,Tinggi,Buruh,PIL,Tenaga Kesehatan,1
+20,Pria,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Tidak,Teman,0
+46,Wanita,5,Perguruan Tinggi,Rendah,Buruh,Kondom,Keluarga,1
+23,Wanita,4,SMP,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+35,Pria,4,SMA,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,0
+36,Wanita,2,SMP,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+49,Pria,5,SMA,Menengah,PNS,Kondom,Tenaga Kesehatan,1
+22,Wanita,0,SMA,Tinggi,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+32,Wanita,0,SMA,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+42,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Kondom,Media,1
+19,Wanita,2,SMA,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+27,Pria,2,SMP,Menengah,Buruh,Tidak,Keluarga,1
+41,Wanita,0,SMA,Rendah,Karyawan Swasta,IUD,Keluarga,1
+47,Pria,4,SD,Tinggi,Karyawan Swasta,Tidak,Media,1
+35,Wanita,2,SMP,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+44,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+30,Pria,2,SMP,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+22,Wanita,3,SMA,Menengah,Buruh,Implan,Media,1
+40,Pria,2,SMP,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+41,Wanita,0,SMA,Rendah,Ibu Rumah Tangga,Implan,Media,0
+18,Wanita,5,SMA,Menengah,Karyawan Swasta,Kondom,Keluarga,0
+39,Wanita,2,SMP,Menengah,PNS,Implan,Teman,0
+18,Wanita,5,Perguruan Tinggi,Menengah,Buruh,IUD,Media,0
+35,Pria,3,SMP,Rendah,Ibu Rumah Tangga,PIL,Keluarga,1
+49,Pria,1,SMP,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+32,Pria,5,SMA,Rendah,PNS,Kondom,Tenaga Kesehatan,1
+34,Pria,4,SMP,Tinggi,Karyawan Swasta,Suntik,Keluarga,1
+28,Pria,2,SD,Menengah,PNS,Suntik,Media,0
+38,Wanita,3,SMA,Menengah,Karyawan Swasta,IUD,Media,0
+43,Wanita,3,SMA,Rendah,Buruh,Implan,Tenaga Kesehatan,0
+48,Wanita,5,SMP,Rendah,Wiraswasta,PIL,Media,1
+42,Pria,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+39,Wanita,0,SMA,Rendah,PNS,Tidak,Media,1
+44,Wanita,2,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+44,Pria,3,SD,Menengah,Wiraswasta,PIL,Tenaga Kesehatan,1
+34,Wanita,1,SMA,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,0
+30,Wanita,4,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+18,Pria,3,SMA,Menengah,Karyawan Swasta,Suntik,Keluarga,0
+19,Wanita,1,SMA,Rendah,PNS,Kondom,Tenaga Kesehatan,0
+26,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+20,Pria,0,SD,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+48,Wanita,3,SMP,Tinggi,PNS,Suntik,Media,0
+18,Wanita,3,SMP,Menengah,PNS,IUD,Tenaga Kesehatan,1
+38,Wanita,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+33,Wanita,2,SMP,Rendah,Karyawan Swasta,PIL,Teman,0
+40,Wanita,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Implan,Media,1
+23,Wanita,3,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+45,Wanita,2,SMP,Menengah,PNS,Implan,Media,1
+34,Pria,5,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+22,Wanita,2,Perguruan Tinggi,Rendah,PNS,Suntik,Tenaga Kesehatan,1
+48,Wanita,3,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Media,0
+22,Wanita,0,SMP,Tinggi,Karyawan Swasta,Suntik,Keluarga,1
+23,Pria,1,SMP,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+20,Wanita,1,SMA,Menengah,Karyawan Swasta,Implan,Keluarga,1
+38,Pria,0,SMA,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+40,Pria,3,SMP,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+22,Pria,1,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+38,Pria,3,SD,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+22,Wanita,5,SD,Menengah,PNS,Implan,Teman,0
+27,Wanita,3,SMP,Menengah,Ibu Rumah Tangga,IUD,Media,0
+27,Pria,2,SMP,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+36,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Implan,Teman,1
+34,Wanita,3,SMP,Rendah,Karyawan Swasta,Kondom,Keluarga,1
+38,Wanita,5,SMP,Menengah,Karyawan Swasta,Suntik,Keluarga,1
+31,Pria,4,SD,Rendah,Wiraswasta,Kondom,Teman,1
+26,Wanita,0,SMP,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+31,Wanita,1,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+18,Wanita,2,SMP,Menengah,PNS,Suntik,Media,0
+36,Pria,1,SMP,Menengah,Wiraswasta,Tidak,Keluarga,0
+30,Pria,5,SMA,Rendah,Karyawan Swasta,Implan,Keluarga,1
+30,Wanita,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+21,Wanita,1,SMP,Rendah,Buruh,Suntik,Keluarga,1
+47,Wanita,0,SMA,Menengah,PNS,PIL,Tenaga Kesehatan,0
+18,Wanita,1,SMA,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+34,Pria,3,SMA,Rendah,Buruh,PIL,Tenaga Kesehatan,0
+25,Wanita,1,SD,Menengah,Ibu Rumah Tangga,Suntik,Teman,0
+49,Wanita,2,SMA,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+19,Pria,2,SD,Rendah,Ibu Rumah Tangga,Implan,Media,0
+45,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+48,Wanita,2,SMA,Tinggi,Ibu Rumah Tangga,Suntik,Teman,1
+25,Pria,1,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+24,Wanita,2,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,1
+43,Pria,0,SD,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,0
+43,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Kondom,Media,1
+19,Wanita,3,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+39,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+39,Wanita,4,SD,Rendah,Ibu Rumah Tangga,IUD,Teman,1
+20,Pria,3,Perguruan Tinggi,Menengah,PNS,Implan,Keluarga,1
+44,Wanita,1,SD,Rendah,PNS,Implan,Tenaga Kesehatan,1
+35,Wanita,1,SD,Menengah,Ibu Rumah Tangga,Tidak,Keluarga,1
+29,Pria,1,SMP,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+18,Wanita,3,SMA,Rendah,Karyawan Swasta,Implan,Media,1
+39,Wanita,3,SMA,Menengah,PNS,PIL,Keluarga,1
+29,Pria,3,SD,Rendah,PNS,Tidak,Tenaga Kesehatan,1
+22,Wanita,0,SMP,Menengah,PNS,PIL,Keluarga,1
+47,Wanita,5,SMP,Menengah,Karyawan Swasta,Suntik,Media,1
+47,Pria,0,SMP,Rendah,Ibu Rumah Tangga,PIL,Keluarga,0
+44,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+42,Pria,5,SMA,Tinggi,Buruh,Tidak,Media,1
+34,Pria,2,SMP,Tinggi,Ibu Rumah Tangga,PIL,Keluarga,1
+33,Pria,1,SMP,Menengah,PNS,Implan,Tenaga Kesehatan,0
+48,Wanita,4,SMP,Menengah,Buruh,IUD,Tenaga Kesehatan,1
+32,Wanita,0,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Teman,0
+40,Pria,3,Perguruan Tinggi,Rendah,PNS,Tidak,Tenaga Kesehatan,1
+32,Wanita,0,Perguruan Tinggi,Menengah,Karyawan Swasta,IUD,Teman,1
+22,Wanita,3,SMP,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+38,Pria,5,SD,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+31,Wanita,4,SMP,Rendah,PNS,IUD,Keluarga,1
+19,Wanita,5,SMP,Rendah,Buruh,Suntik,Media,0
+28,Wanita,4,SMA,Rendah,Wiraswasta,PIL,Media,0
+36,Wanita,0,SMA,Tinggi,Wiraswasta,PIL,Media,0
+24,Wanita,3,Perguruan Tinggi,Menengah,Wiraswasta,Suntik,Keluarga,0
+23,Wanita,5,Perguruan Tinggi,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+49,Wanita,4,SMP,Rendah,PNS,Tidak,Media,0
+45,Wanita,1,SMA,Tinggi,PNS,PIL,Tenaga Kesehatan,1
+19,Pria,1,SMP,Rendah,Karyawan Swasta,IUD,Media,0
+23,Wanita,5,SD,Tinggi,Buruh,Tidak,Tenaga Kesehatan,0
+35,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+19,Pria,5,SD,Rendah,Wiraswasta,Kondom,Media,1
+35,Pria,0,SMP,Menengah,Buruh,PIL,Tenaga Kesehatan,1
+47,Wanita,4,SMP,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+32,Wanita,0,SMA,Rendah,Buruh,Kondom,Media,1
+44,Wanita,1,SMA,Tinggi,Ibu Rumah Tangga,IUD,Media,0
+36,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,Tidak,Keluarga,1
+48,Pria,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Suntik,Media,0
+19,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+37,Pria,2,SMP,Menengah,Karyawan Swasta,Suntik,Media,0
+42,Wanita,3,SMA,Menengah,Buruh,Suntik,Tenaga Kesehatan,0
+23,Wanita,3,SMA,Menengah,Buruh,PIL,Keluarga,0
+18,Wanita,2,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Teman,0
+41,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,IUD,Media,0
+32,Pria,4,SMA,Tinggi,Ibu Rumah Tangga,Implan,Media,1
+45,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+47,Wanita,2,Perguruan Tinggi,Tinggi,PNS,Implan,Media,0
+40,Wanita,5,SD,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+27,Pria,2,SMA,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+36,Wanita,1,SMA,Rendah,PNS,Implan,Tenaga Kesehatan,1
+34,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,Kondom,Media,1
+22,Pria,0,SMP,Tinggi,Karyawan Swasta,Suntik,Keluarga,1
+46,Pria,3,SMP,Rendah,PNS,Suntik,Tenaga Kesehatan,0
+21,Wanita,0,SMA,Rendah,PNS,PIL,Teman,1
+27,Wanita,2,Perguruan Tinggi,Tinggi,PNS,Implan,Tenaga Kesehatan,1
+41,Pria,4,SMA,Rendah,Wiraswasta,IUD,Tenaga Kesehatan,1
+34,Pria,4,SMA,Menengah,Ibu Rumah Tangga,Tidak,Keluarga,0
+27,Pria,1,SMA,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+34,Pria,4,SD,Tinggi,Karyawan Swasta,Tidak,Media,0
+45,Wanita,4,SMP,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+37,Wanita,4,SMP,Rendah,Wiraswasta,IUD,Tenaga Kesehatan,0
+41,Wanita,2,SMP,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+22,Wanita,4,SD,Tinggi,PNS,Tidak,Teman,0
+19,Pria,5,SMA,Menengah,Ibu Rumah Tangga,Tidak,Media,0
+23,Wanita,4,SMP,Rendah,Karyawan Swasta,PIL,Keluarga,1
+38,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+19,Wanita,0,SMP,Tinggi,Ibu Rumah Tangga,IUD,Media,1
+30,Wanita,2,SD,Tinggi,Karyawan Swasta,PIL,Media,1
+47,Pria,1,Perguruan Tinggi,Tinggi,Karyawan Swasta,Suntik,Teman,0
+28,Wanita,0,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,0
+28,Pria,3,SMA,Rendah,Karyawan Swasta,Implan,Keluarga,0
+33,Wanita,2,SD,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+28,Pria,5,SMA,Tinggi,Ibu Rumah Tangga,Suntik,Media,1
+36,Pria,2,Perguruan Tinggi,Rendah,PNS,Implan,Media,1
+32,Wanita,3,SMA,Rendah,Karyawan Swasta,PIL,Teman,1
+42,Pria,3,SD,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+40,Wanita,3,SMA,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+40,Pria,1,Perguruan Tinggi,Rendah,PNS,Suntik,Media,1
+33,Wanita,4,SMA,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+48,Wanita,2,SMA,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,1
+28,Wanita,4,SMP,Menengah,Karyawan Swasta,PIL,Keluarga,0
+39,Pria,4,SMA,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+33,Pria,5,SD,Menengah,PNS,Kondom,Keluarga,1
+25,Pria,3,SMA,Menengah,Buruh,PIL,Keluarga,0
+21,Pria,1,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+25,Wanita,5,SMP,Menengah,Wiraswasta,Suntik,Media,1
+21,Wanita,0,SMP,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+41,Wanita,1,SMA,Rendah,Ibu Rumah Tangga,Tidak,Teman,1
+42,Wanita,4,SD,Rendah,Wiraswasta,PIL,Media,0
+20,Wanita,1,SMA,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+49,Wanita,3,SMA,Menengah,Buruh,PIL,Tenaga Kesehatan,1
+20,Pria,0,SD,Tinggi,PNS,Implan,Media,1
+44,Wanita,3,SD,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+46,Wanita,0,SD,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+49,Wanita,5,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Keluarga,0
+35,Pria,4,SMA,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,1
+46,Wanita,0,SMP,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+43,Wanita,0,SD,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+36,Wanita,0,SMA,Rendah,PNS,PIL,Keluarga,1
+36,Wanita,1,Perguruan Tinggi,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+38,Pria,5,Perguruan Tinggi,Tinggi,PNS,Implan,Keluarga,0
+22,Wanita,1,SMA,Rendah,PNS,Implan,Tenaga Kesehatan,0
+35,Pria,4,SD,Rendah,Ibu Rumah Tangga,Implan,Media,0
+45,Wanita,0,SD,Menengah,Ibu Rumah Tangga,Suntik,Media,0
+27,Pria,5,SD,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+46,Wanita,5,SMP,Tinggi,PNS,Suntik,Keluarga,1
+39,Wanita,2,SD,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,0
+38,Pria,4,SMP,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+23,Wanita,5,SMP,Menengah,Wiraswasta,Kondom,Media,1
+18,Pria,0,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+22,Wanita,0,SMA,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+26,Wanita,5,Perguruan Tinggi,Menengah,Karyawan Swasta,Suntik,Keluarga,1
+29,Wanita,1,SMA,Menengah,Buruh,Suntik,Tenaga Kesehatan,0
+43,Pria,4,SD,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+31,Wanita,0,SMA,Menengah,Karyawan Swasta,Tidak,Keluarga,0
+19,Wanita,5,SMP,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+34,Pria,0,SMA,Tinggi,Karyawan Swasta,Tidak,Media,0
+31,Wanita,5,SMP,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+43,Pria,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+30,Wanita,5,SMP,Rendah,Karyawan Swasta,Tidak,Media,0
+44,Pria,2,SMP,Menengah,Karyawan Swasta,Implan,Media,1
+26,Wanita,5,Perguruan Tinggi,Menengah,PNS,Tidak,Media,1
+43,Wanita,5,SD,Tinggi,PNS,IUD,Media,1
+42,Pria,4,SMA,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+32,Pria,5,SMA,Rendah,Buruh,Implan,Media,1
+42,Pria,4,Perguruan Tinggi,Tinggi,PNS,PIL,Teman,1
+39,Wanita,2,Perguruan Tinggi,Rendah,Buruh,Kondom,Keluarga,1
+32,Pria,4,Perguruan Tinggi,Rendah,PNS,IUD,Tenaga Kesehatan,0
+41,Wanita,0,SD,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+47,Pria,4,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Teman,0
+28,Pria,2,SMA,Menengah,Ibu Rumah Tangga,IUD,Media,1
+48,Wanita,3,SMA,Rendah,PNS,Kondom,Media,1
+33,Pria,5,SD,Rendah,PNS,PIL,Keluarga,1
+46,Wanita,4,SMA,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+34,Wanita,5,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Media,0
+43,Wanita,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Teman,0
+21,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Tidak,Media,0
+18,Wanita,0,SD,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+25,Pria,1,SMP,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+34,Pria,1,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+20,Pria,4,SMA,Rendah,Ibu Rumah Tangga,Kondom,Keluarga,1
+46,Wanita,1,SMP,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+37,Pria,3,SD,Menengah,Buruh,Suntik,Tenaga Kesehatan,1
+32,Wanita,5,SMP,Menengah,Ibu Rumah Tangga,Implan,Teman,1
+32,Wanita,5,SMP,Menengah,PNS,PIL,Tenaga Kesehatan,1
+48,Wanita,2,Perguruan Tinggi,Menengah,PNS,Kondom,Tenaga Kesehatan,1
+41,Wanita,1,SMA,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+39,Pria,1,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+31,Wanita,3,SMA,Tinggi,Ibu Rumah Tangga,Tidak,Media,0
+43,Wanita,0,SD,Menengah,Karyawan Swasta,IUD,Teman,0
+45,Pria,0,Perguruan Tinggi,Tinggi,PNS,IUD,Keluarga,0
+40,Pria,5,SMP,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+31,Wanita,5,SMP,Tinggi,PNS,Kondom,Media,1
+41,Wanita,4,SMP,Rendah,PNS,Suntik,Media,1
+19,Wanita,3,SMA,Rendah,PNS,PIL,Tenaga Kesehatan,0
+30,Wanita,2,SMA,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+43,Wanita,2,SMA,Rendah,PNS,Suntik,Teman,1
+31,Wanita,3,SMP,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+44,Wanita,2,SMP,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+41,Pria,0,SD,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+36,Wanita,2,SMA,Tinggi,Ibu Rumah Tangga,Tidak,Media,0
+24,Wanita,2,SD,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+20,Wanita,3,SMA,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+32,Wanita,3,Perguruan Tinggi,Rendah,Buruh,Implan,Tenaga Kesehatan,0
+40,Wanita,2,Perguruan Tinggi,Menengah,PNS,PIL,Media,0
+31,Wanita,1,SMP,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+28,Wanita,3,SMP,Rendah,Karyawan Swasta,Implan,Media,1
+32,Wanita,4,SD,Rendah,Karyawan Swasta,Tidak,Media,1
+45,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,IUD,Keluarga,0
+30,Pria,0,Perguruan Tinggi,Tinggi,Wiraswasta,IUD,Tenaga Kesehatan,1
+35,Wanita,2,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+43,Pria,1,SMP,Rendah,Wiraswasta,PIL,Media,0
+23,Pria,0,Perguruan Tinggi,Menengah,Buruh,Kondom,Keluarga,1
+20,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+36,Wanita,3,SMP,Menengah,Wiraswasta,PIL,Media,0
+32,Wanita,4,SMA,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+49,Wanita,5,SD,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+42,Wanita,1,SD,Tinggi,PNS,Suntik,Media,1
+40,Wanita,5,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+22,Wanita,4,Perguruan Tinggi,Rendah,PNS,PIL,Keluarga,0
+45,Pria,5,SMA,Menengah,Karyawan Swasta,PIL,Media,0
+27,Pria,3,SD,Menengah,PNS,PIL,Media,1
+24,Pria,2,Perguruan Tinggi,Menengah,PNS,PIL,Media,1
+42,Wanita,3,SMP,Tinggi,Karyawan Swasta,Kondom,Media,0
+34,Pria,5,SMP,Menengah,Buruh,Implan,Tenaga Kesehatan,0
+24,Pria,3,SMA,Tinggi,Ibu Rumah Tangga,IUD,Keluarga,0
+39,Pria,4,SD,Menengah,PNS,Implan,Teman,1
+43,Wanita,1,SMA,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+47,Pria,3,SMA,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+29,Wanita,4,SD,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+42,Pria,1,SD,Tinggi,Karyawan Swasta,Tidak,Media,0
+34,Wanita,2,SD,Menengah,Ibu Rumah Tangga,IUD,Media,1
+30,Pria,5,SD,Rendah,Ibu Rumah Tangga,Implan,Keluarga,1
+37,Pria,2,SMA,Rendah,Wiraswasta,Suntik,Keluarga,1
+42,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+21,Pria,4,SD,Rendah,PNS,Implan,Media,0
+27,Pria,1,SD,Rendah,Ibu Rumah Tangga,Implan,Media,0
+20,Pria,3,SMA,Menengah,PNS,Tidak,Media,1
+26,Pria,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Media,1
+30,Pria,1,SMP,Menengah,PNS,Implan,Media,0
+35,Pria,4,SMP,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+32,Wanita,0,SMA,Rendah,PNS,IUD,Media,1
+21,Wanita,2,SMP,Menengah,Karyawan Swasta,PIL,Media,0
+32,Wanita,5,SD,Menengah,Karyawan Swasta,Implan,Keluarga,0
+39,Pria,1,SMA,Rendah,Karyawan Swasta,Implan,Media,0
+19,Wanita,5,SMA,Rendah,Karyawan Swasta,PIL,Media,1
+32,Pria,1,SMA,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+25,Pria,1,SMA,Rendah,Ibu Rumah Tangga,Implan,Media,1
+25,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+34,Pria,4,SMP,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+29,Pria,4,SMP,Tinggi,Ibu Rumah Tangga,PIL,Media,1
+36,Wanita,3,SD,Menengah,Karyawan Swasta,Tidak,Media,0
+27,Wanita,1,SD,Menengah,Karyawan Swasta,Suntik,Teman,1
+26,Wanita,2,SMA,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+22,Wanita,5,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+23,Wanita,4,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+37,Pria,4,SMA,Menengah,Buruh,IUD,Tenaga Kesehatan,1
+43,Pria,5,SD,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+49,Pria,5,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+19,Wanita,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+44,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,Kondom,Media,1
+41,Wanita,5,SMA,Rendah,PNS,Kondom,Media,0
+44,Wanita,3,SMA,Rendah,Karyawan Swasta,Implan,Keluarga,0
+30,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+23,Pria,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+22,Wanita,5,SD,Tinggi,Karyawan Swasta,Suntik,Keluarga,0
+42,Wanita,1,SMA,Rendah,Karyawan Swasta,PIL,Keluarga,1
+18,Wanita,1,Perguruan Tinggi,Menengah,PNS,IUD,Tenaga Kesehatan,0
+38,Pria,1,SMP,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+39,Wanita,0,SMA,Tinggi,PNS,IUD,Tenaga Kesehatan,1
+38,Pria,4,SMP,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+23,Pria,1,Perguruan Tinggi,Menengah,PNS,PIL,Teman,0
+23,Pria,3,SD,Menengah,Karyawan Swasta,IUD,Media,0
+40,Wanita,5,SMA,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,1
+33,Wanita,2,SD,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,1
+21,Pria,2,SMA,Rendah,Karyawan Swasta,Suntik,Media,0
+47,Pria,1,SD,Rendah,PNS,IUD,Tenaga Kesehatan,1
+28,Wanita,2,SMP,Tinggi,Karyawan Swasta,PIL,Teman,0
+47,Pria,2,SMP,Menengah,Ibu Rumah Tangga,IUD,Keluarga,1
+47,Pria,0,Perguruan Tinggi,Menengah,PNS,Suntik,Keluarga,1
+47,Wanita,3,SMP,Menengah,Buruh,IUD,Media,0
+48,Wanita,3,SD,Rendah,Karyawan Swasta,Tidak,Keluarga,0
+41,Pria,0,SMA,Menengah,PNS,Implan,Tenaga Kesehatan,0
+40,Pria,0,SMA,Menengah,Ibu Rumah Tangga,PIL,Media,0
+26,Pria,2,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Kondom,Teman,1
+40,Wanita,4,SD,Rendah,PNS,IUD,Tenaga Kesehatan,1
+20,Wanita,5,SMA,Tinggi,Buruh,Suntik,Keluarga,0
+36,Wanita,5,SMP,Rendah,Wiraswasta,IUD,Media,1
+48,Pria,2,SD,Tinggi,PNS,Suntik,Tenaga Kesehatan,0
+25,Wanita,5,SMA,Rendah,PNS,Kondom,Keluarga,1
+22,Pria,0,SMA,Menengah,Buruh,Tidak,Tenaga Kesehatan,1
+21,Wanita,3,SMA,Tinggi,PNS,IUD,Media,1
+41,Wanita,5,SMP,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+48,Wanita,2,SMP,Menengah,Ibu Rumah Tangga,Implan,Teman,0
+23,Wanita,4,SMP,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+19,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+37,Pria,1,SMP,Rendah,Buruh,PIL,Tenaga Kesehatan,1
+45,Wanita,2,SMP,Tinggi,Karyawan Swasta,PIL,Teman,1
+28,Pria,0,SMP,Menengah,Ibu Rumah Tangga,Implan,Keluarga,1
+21,Wanita,3,SMA,Menengah,Karyawan Swasta,PIL,Keluarga,1
+32,Pria,3,SMP,Rendah,Buruh,IUD,Media,1
+23,Pria,5,Perguruan Tinggi,Rendah,PNS,PIL,Media,1
+39,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+34,Pria,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+47,Wanita,0,SD,Menengah,PNS,Tidak,Tenaga Kesehatan,1
+41,Wanita,2,SMA,Menengah,PNS,Implan,Teman,1
+23,Pria,0,Perguruan Tinggi,Tinggi,Karyawan Swasta,Suntik,Keluarga,1
+36,Pria,0,SD,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+47,Wanita,1,Perguruan Tinggi,Rendah,Buruh,PIL,Tenaga Kesehatan,0
+42,Pria,2,SMP,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+19,Wanita,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+32,Wanita,4,SMA,Rendah,PNS,IUD,Tenaga Kesehatan,1
+28,Wanita,3,SMP,Tinggi,PNS,Implan,Tenaga Kesehatan,0
+25,Wanita,5,SD,Rendah,Ibu Rumah Tangga,PIL,Media,1
+43,Wanita,0,SMP,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,0
+36,Wanita,3,SD,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+30,Pria,1,SD,Tinggi,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+29,Pria,4,SD,Menengah,Karyawan Swasta,PIL,Media,1
+22,Wanita,0,SMP,Tinggi,PNS,Tidak,Keluarga,1
+23,Wanita,1,SMA,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+43,Wanita,5,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+39,Wanita,1,SD,Tinggi,Ibu Rumah Tangga,Suntik,Teman,0
+21,Wanita,0,SMA,Rendah,Wiraswasta,Implan,Teman,1
+36,Wanita,5,SD,Rendah,Buruh,PIL,Teman,1
+37,Wanita,1,SD,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,0
+18,Pria,5,SD,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+37,Wanita,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+34,Pria,0,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+29,Wanita,5,SMP,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+32,Wanita,2,SMA,Rendah,PNS,IUD,Teman,0
+18,Wanita,3,SMA,Tinggi,Karyawan Swasta,Implan,Keluarga,1
+43,Pria,1,SMA,Rendah,Karyawan Swasta,Implan,Keluarga,1
+31,Pria,1,SMA,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+49,Wanita,2,SMA,Tinggi,Karyawan Swasta,Suntik,Teman,1
+23,Pria,2,SMP,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,0
+22,Wanita,2,SD,Menengah,PNS,Kondom,Tenaga Kesehatan,1
+47,Pria,4,SMP,Rendah,Karyawan Swasta,IUD,Keluarga,1
+28,Pria,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+48,Pria,5,SMA,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+21,Wanita,4,Perguruan Tinggi,Menengah,Buruh,IUD,Media,0
+30,Wanita,0,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Media,0
+28,Pria,5,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+20,Pria,1,SMA,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+18,Wanita,3,SMA,Rendah,Karyawan Swasta,PIL,Teman,0
+23,Pria,0,Perguruan Tinggi,Menengah,PNS,PIL,Media,1
+35,Wanita,1,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,IUD,Keluarga,1
+41,Wanita,1,SMA,Menengah,Wiraswasta,PIL,Tenaga Kesehatan,1
+27,Pria,5,SMP,Rendah,PNS,Suntik,Tenaga Kesehatan,1
+22,Pria,2,SMA,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+40,Wanita,2,SD,Rendah,PNS,Kondom,Tenaga Kesehatan,1
+27,Wanita,0,SMA,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+29,Wanita,2,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+19,Pria,1,SMP,Menengah,Ibu Rumah Tangga,Suntik,Media,0
+30,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+25,Pria,4,SMP,Tinggi,Wiraswasta,Tidak,Keluarga,1
+19,Wanita,2,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+37,Wanita,1,SMP,Rendah,Karyawan Swasta,Suntik,Media,1
+18,Pria,5,SMA,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+48,Pria,0,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Media,1
+22,Pria,3,Perguruan Tinggi,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+26,Pria,2,SD,Menengah,Wiraswasta,IUD,Teman,1
+34,Pria,1,Perguruan Tinggi,Menengah,Buruh,Implan,Keluarga,1
+26,Pria,3,SMA,Menengah,Ibu Rumah Tangga,Suntik,Media,1
+28,Wanita,3,SMP,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+32,Wanita,4,SD,Rendah,Karyawan Swasta,PIL,Media,0
+41,Pria,3,SMP,Rendah,Wiraswasta,PIL,Keluarga,1
+23,Wanita,5,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+40,Pria,1,SMA,Menengah,Karyawan Swasta,PIL,Media,1
+20,Wanita,1,SMA,Menengah,PNS,PIL,Keluarga,1
+47,Pria,2,SMP,Rendah,Ibu Rumah Tangga,IUD,Keluarga,1
+48,Wanita,2,SMA,Rendah,PNS,IUD,Keluarga,0
+34,Wanita,2,SD,Rendah,Karyawan Swasta,Tidak,Keluarga,0
+22,Wanita,5,SMP,Rendah,PNS,IUD,Teman,0
+47,Wanita,3,SMA,Rendah,Karyawan Swasta,PIL,Media,0
+45,Pria,3,SD,Tinggi,Wiraswasta,Suntik,Media,0
+29,Wanita,4,Perguruan Tinggi,Tinggi,PNS,Tidak,Keluarga,1
+35,Pria,5,SMP,Menengah,Karyawan Swasta,Suntik,Media,0
+31,Pria,2,SMA,Menengah,PNS,IUD,Teman,1
+38,Pria,0,SMP,Rendah,PNS,Suntik,Tenaga Kesehatan,0
+41,Wanita,4,SMA,Tinggi,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+28,Pria,0,SD,Rendah,Wiraswasta,Kondom,Tenaga Kesehatan,1
+26,Wanita,3,SD,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+19,Wanita,4,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+29,Wanita,4,SMP,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,1
+20,Wanita,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+20,Wanita,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Keluarga,1
+18,Pria,3,SMP,Menengah,Ibu Rumah Tangga,Suntik,Media,0
+25,Pria,5,SMP,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+49,Pria,4,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+39,Pria,3,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+45,Pria,4,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Keluarga,0
+49,Pria,5,SMA,Menengah,Karyawan Swasta,Implan,Keluarga,1
+46,Wanita,5,SMA,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+25,Wanita,1,SD,Tinggi,Wiraswasta,IUD,Teman,1
+28,Pria,4,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Media,0
+26,Wanita,3,Perguruan Tinggi,Rendah,PNS,PIL,Teman,1
+22,Pria,3,SD,Rendah,Wiraswasta,Implan,Keluarga,1
+31,Wanita,4,SMP,Rendah,Karyawan Swasta,PIL,Keluarga,1
+45,Wanita,4,SD,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+47,Wanita,4,SMP,Tinggi,Ibu Rumah Tangga,Implan,Teman,1
+20,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Media,1
+38,Wanita,3,SMP,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+22,Wanita,5,SD,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+22,Wanita,3,SMP,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+36,Wanita,2,Perguruan Tinggi,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+44,Wanita,4,SMA,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,0
+31,Pria,1,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+43,Pria,4,SD,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,1
+47,Pria,4,Perguruan Tinggi,Rendah,Buruh,Tidak,Tenaga Kesehatan,1
+21,Wanita,2,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+42,Wanita,3,SMP,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+30,Pria,4,SD,Rendah,Wiraswasta,IUD,Media,1
+27,Wanita,3,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+42,Wanita,0,SD,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+35,Wanita,5,SMA,Tinggi,PNS,IUD,Media,0
+25,Wanita,3,Perguruan Tinggi,Tinggi,PNS,Kondom,Media,1
+25,Wanita,1,SMP,Menengah,PNS,IUD,Tenaga Kesehatan,1
+24,Pria,5,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+25,Wanita,1,SMP,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+31,Pria,4,SMA,Menengah,Karyawan Swasta,Implan,Teman,0
+49,Wanita,5,SMA,Menengah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+36,Pria,3,SD,Menengah,PNS,Tidak,Media,1
+46,Wanita,5,SMP,Tinggi,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+23,Wanita,4,SMA,Tinggi,PNS,IUD,Media,1
+18,Pria,2,SD,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+40,Wanita,1,SMP,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+48,Wanita,4,SMA,Rendah,Karyawan Swasta,PIL,Media,1
+32,Wanita,2,Perguruan Tinggi,Rendah,PNS,Implan,Tenaga Kesehatan,0
+18,Wanita,5,SMP,Menengah,Buruh,Tidak,Tenaga Kesehatan,1
+42,Wanita,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+34,Pria,4,SMP,Tinggi,Wiraswasta,Tidak,Teman,1
+18,Pria,3,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+32,Pria,5,SMA,Menengah,Ibu Rumah Tangga,PIL,Media,1
+40,Wanita,3,Perguruan Tinggi,Menengah,Buruh,Suntik,Teman,0
+19,Pria,3,SMP,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,1
+31,Wanita,3,SMA,Rendah,Karyawan Swasta,PIL,Media,0
+38,Wanita,0,SMA,Tinggi,Buruh,PIL,Keluarga,0
+25,Wanita,2,SMP,Menengah,Buruh,PIL,Tenaga Kesehatan,1
+25,Wanita,2,SD,Menengah,Wiraswasta,Suntik,Media,0
+36,Wanita,5,SD,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+24,Wanita,5,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+36,Wanita,3,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Tidak,Media,1
+23,Wanita,0,SMP,Menengah,PNS,PIL,Tenaga Kesehatan,1
+23,Wanita,3,SMP,Tinggi,Buruh,Tidak,Media,0
+20,Wanita,0,SMA,Menengah,PNS,Tidak,Media,0
+24,Pria,3,SMP,Rendah,Karyawan Swasta,IUD,Media,1
+36,Pria,1,SMA,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+25,Wanita,1,SD,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+27,Wanita,4,Perguruan Tinggi,Menengah,Wiraswasta,Tidak,Media,0
+49,Wanita,3,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Teman,1
+37,Wanita,5,Perguruan Tinggi,Rendah,Karyawan Swasta,Kondom,Tenaga Kesehatan,0
+32,Pria,2,SMP,Menengah,Buruh,Suntik,Tenaga Kesehatan,1
+32,Wanita,4,SMA,Menengah,PNS,PIL,Keluarga,1
+46,Wanita,5,SD,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+18,Wanita,1,SD,Rendah,Karyawan Swasta,Implan,Keluarga,1
+37,Wanita,3,SD,Rendah,PNS,Kondom,Media,1
+47,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+24,Pria,3,SMP,Rendah,Buruh,Tidak,Tenaga Kesehatan,1
+44,Wanita,1,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+21,Wanita,4,SD,Rendah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+46,Wanita,1,SMP,Menengah,Buruh,Tidak,Keluarga,1
+23,Wanita,0,SMA,Rendah,Karyawan Swasta,Kondom,Keluarga,1
+42,Pria,1,SMP,Tinggi,Ibu Rumah Tangga,PIL,Media,1
+18,Pria,3,SMA,Rendah,PNS,PIL,Keluarga,0
+46,Pria,2,SMP,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+22,Wanita,1,Perguruan Tinggi,Rendah,Wiraswasta,Suntik,Media,0
+44,Pria,5,SMA,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+40,Pria,2,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Keluarga,1
+18,Wanita,0,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+47,Pria,4,SMA,Tinggi,Ibu Rumah Tangga,IUD,Media,0
+21,Wanita,4,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,1
+39,Wanita,2,SMP,Menengah,Karyawan Swasta,Tidak,Media,1
+19,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+27,Pria,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Media,1
+22,Pria,2,SMA,Rendah,PNS,Implan,Tenaga Kesehatan,1
+44,Wanita,3,SMP,Menengah,Karyawan Swasta,Suntik,Media,1
+27,Wanita,1,SMP,Rendah,Karyawan Swasta,Tidak,Teman,1
+18,Wanita,1,SMP,Rendah,PNS,Implan,Media,1
+39,Pria,1,SMA,Menengah,Karyawan Swasta,IUD,Media,1
+23,Wanita,3,SMP,Menengah,PNS,PIL,Media,1
+30,Wanita,0,Perguruan Tinggi,Tinggi,Wiraswasta,PIL,Tenaga Kesehatan,1
+48,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+32,Wanita,4,SMP,Tinggi,Karyawan Swasta,PIL,Teman,1
+21,Wanita,2,SMA,Rendah,Buruh,IUD,Media,0
+30,Wanita,0,Perguruan Tinggi,Rendah,Buruh,IUD,Tenaga Kesehatan,1
+41,Pria,2,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+37,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,Implan,Media,0
+41,Pria,3,SMA,Rendah,Karyawan Swasta,Suntik,Keluarga,1
+32,Wanita,1,SMA,Menengah,Ibu Rumah Tangga,PIL,Keluarga,1
+46,Wanita,1,SMP,Tinggi,Buruh,PIL,Tenaga Kesehatan,0
+25,Pria,3,SD,Menengah,Karyawan Swasta,Implan,Teman,1
+22,Pria,0,SMP,Menengah,Karyawan Swasta,IUD,Media,1
+46,Pria,0,SMP,Tinggi,Ibu Rumah Tangga,IUD,Media,1
+32,Wanita,2,Perguruan Tinggi,Menengah,Karyawan Swasta,PIL,Media,0
+21,Wanita,3,SMP,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+29,Pria,0,Perguruan Tinggi,Rendah,Buruh,Suntik,Teman,1
+30,Wanita,3,SMA,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+19,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+44,Pria,1,SMA,Rendah,PNS,Tidak,Keluarga,1
+48,Pria,1,SD,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+36,Wanita,1,SMP,Tinggi,Karyawan Swasta,Implan,Keluarga,1
+36,Wanita,3,SD,Rendah,Wiraswasta,Kondom,Media,1
+21,Wanita,3,SMA,Tinggi,PNS,Kondom,Tenaga Kesehatan,1
+21,Pria,2,SMP,Rendah,Buruh,Kondom,Teman,0
+43,Pria,1,SMA,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+28,Wanita,2,SMP,Rendah,Ibu Rumah Tangga,Implan,Keluarga,1
+44,Pria,1,SD,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+22,Pria,2,SMP,Tinggi,PNS,Tidak,Keluarga,0
+37,Pria,2,Perguruan Tinggi,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+28,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,IUD,Media,0
+47,Wanita,2,SMP,Rendah,Karyawan Swasta,Tidak,Keluarga,1
+27,Wanita,3,SMA,Rendah,PNS,Tidak,Media,0
+25,Wanita,2,SD,Rendah,Wiraswasta,Tidak,Keluarga,1
+23,Pria,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Tidak,Keluarga,1
+23,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,1
+25,Pria,0,SMP,Rendah,Ibu Rumah Tangga,IUD,Teman,0
+40,Wanita,5,SMA,Menengah,PNS,Tidak,Media,0
+32,Wanita,1,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+43,Wanita,0,Perguruan Tinggi,Menengah,Buruh,IUD,Tenaga Kesehatan,0
+31,Pria,1,SD,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+28,Wanita,3,SMA,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+29,Pria,5,SMP,Tinggi,Karyawan Swasta,IUD,Media,1
+43,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+30,Wanita,3,SMA,Tinggi,PNS,PIL,Tenaga Kesehatan,1
+25,Wanita,5,SMA,Tinggi,Wiraswasta,PIL,Tenaga Kesehatan,0
+47,Wanita,3,SMA,Menengah,Buruh,Implan,Keluarga,1
+35,Wanita,0,Perguruan Tinggi,Rendah,Buruh,IUD,Media,1
+42,Pria,4,SD,Tinggi,Buruh,Suntik,Tenaga Kesehatan,1
+18,Wanita,1,SMP,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,1
+32,Pria,3,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+25,Wanita,1,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Teman,1
+45,Wanita,0,SMP,Rendah,PNS,Implan,Media,1
+28,Wanita,4,SMA,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+29,Wanita,0,SMA,Menengah,PNS,Kondom,Media,1
+29,Wanita,5,SMP,Menengah,Karyawan Swasta,Implan,Keluarga,1
+21,Pria,1,SMP,Rendah,Buruh,PIL,Media,1
+33,Wanita,4,SMP,Menengah,Karyawan Swasta,Implan,Keluarga,0
+21,Pria,5,SMP,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,1
+22,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+41,Pria,5,SD,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+22,Pria,0,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+25,Wanita,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+48,Pria,1,SMP,Rendah,Ibu Rumah Tangga,Tidak,Teman,1
+27,Wanita,2,SMP,Menengah,PNS,IUD,Tenaga Kesehatan,1
+34,Pria,2,SD,Menengah,Ibu Rumah Tangga,IUD,Media,0
+45,Pria,0,SMA,Tinggi,Karyawan Swasta,Suntik,Media,1
+48,Wanita,1,Perguruan Tinggi,Rendah,PNS,Kondom,Keluarga,0
+43,Pria,1,SD,Tinggi,Karyawan Swasta,Tidak,Teman,0
+26,Pria,0,SD,Rendah,Karyawan Swasta,PIL,Keluarga,1
+39,Wanita,1,SMA,Menengah,PNS,PIL,Teman,1
+36,Pria,3,SMA,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+46,Wanita,0,SD,Tinggi,Ibu Rumah Tangga,Tidak,Teman,1
+31,Pria,3,SMA,Menengah,PNS,Tidak,Keluarga,0
+25,Pria,1,SMP,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+26,Wanita,0,SMP,Tinggi,Karyawan Swasta,Tidak,Media,1
+39,Pria,1,SMA,Rendah,Karyawan Swasta,Suntik,Media,1
+28,Pria,0,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+40,Pria,1,SMP,Tinggi,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+18,Pria,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Media,0
+31,Wanita,3,SMP,Rendah,PNS,IUD,Teman,1
+22,Pria,1,SMA,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+38,Wanita,0,SMP,Menengah,PNS,Suntik,Keluarga,0
+43,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Keluarga,1
+31,Wanita,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Teman,1
+21,Wanita,3,SD,Rendah,Ibu Rumah Tangga,PIL,Teman,1
+39,Pria,5,Perguruan Tinggi,Menengah,Karyawan Swasta,IUD,Keluarga,1
+40,Wanita,2,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Kondom,Media,0
+42,Pria,1,SMA,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+18,Wanita,0,SMP,Menengah,Wiraswasta,IUD,Media,1
+48,Wanita,5,Perguruan Tinggi,Rendah,Wiraswasta,Implan,Keluarga,0
+39,Pria,1,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Keluarga,1
+40,Wanita,4,SMP,Menengah,PNS,PIL,Keluarga,0
+36,Wanita,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+25,Pria,4,SD,Tinggi,PNS,Implan,Media,1
+32,Pria,3,SD,Menengah,Buruh,Tidak,Tenaga Kesehatan,0
+38,Wanita,3,SMA,Menengah,Wiraswasta,Implan,Tenaga Kesehatan,1
+32,Wanita,4,SMA,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+26,Wanita,4,SMA,Rendah,PNS,PIL,Tenaga Kesehatan,0
+38,Wanita,1,SD,Rendah,Karyawan Swasta,PIL,Keluarga,0
+26,Wanita,5,Perguruan Tinggi,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+27,Wanita,5,SD,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,0
+37,Pria,4,SD,Menengah,Buruh,Implan,Teman,1
+42,Pria,1,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+38,Wanita,5,SMA,Menengah,PNS,IUD,Tenaga Kesehatan,0
+43,Wanita,1,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+26,Pria,1,SMA,Menengah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+20,Pria,3,Perguruan Tinggi,Tinggi,Buruh,Tidak,Tenaga Kesehatan,1
+48,Wanita,5,SD,Menengah,PNS,PIL,Tenaga Kesehatan,0
+37,Wanita,5,SMA,Rendah,PNS,PIL,Media,1
+42,Wanita,3,SMP,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+43,Wanita,4,SMP,Rendah,Buruh,PIL,Tenaga Kesehatan,1
+28,Pria,3,SD,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,0
+23,Pria,5,SMA,Rendah,Buruh,PIL,Media,1
+19,Pria,5,SMA,Rendah,Buruh,Tidak,Teman,1
+24,Pria,4,SMA,Menengah,Wiraswasta,IUD,Media,0
+35,Wanita,3,SMP,Tinggi,PNS,Tidak,Tenaga Kesehatan,0
+44,Wanita,0,SD,Rendah,Ibu Rumah Tangga,IUD,Keluarga,0
+19,Wanita,0,SMA,Menengah,PNS,Suntik,Tenaga Kesehatan,1
+44,Wanita,4,SD,Menengah,PNS,PIL,Tenaga Kesehatan,1
+34,Pria,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,IUD,Media,1
+49,Wanita,3,SMA,Tinggi,Karyawan Swasta,Kondom,Media,1
+28,Wanita,1,SD,Menengah,PNS,Suntik,Keluarga,0
+44,Wanita,5,Perguruan Tinggi,Rendah,Buruh,Tidak,Teman,1
+29,Pria,2,SMA,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+44,Wanita,4,SD,Rendah,Karyawan Swasta,Tidak,Media,1
+36,Wanita,2,SMA,Menengah,Karyawan Swasta,Implan,Media,1
+39,Pria,2,SMP,Rendah,Karyawan Swasta,Tidak,Teman,1
+41,Pria,4,Perguruan Tinggi,Tinggi,Buruh,Tidak,Keluarga,1
+42,Wanita,3,Perguruan Tinggi,Menengah,Karyawan Swasta,IUD,Teman,1
+24,Wanita,4,Perguruan Tinggi,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+37,Pria,2,SMA,Rendah,PNS,Tidak,Keluarga,0
+23,Wanita,5,SMP,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+38,Pria,5,SMA,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+41,Wanita,5,SD,Menengah,Ibu Rumah Tangga,PIL,Teman,0
+18,Pria,3,SMA,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+34,Wanita,0,SMA,Menengah,Ibu Rumah Tangga,PIL,Teman,0
+46,Pria,4,SD,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+48,Pria,5,SMP,Menengah,Ibu Rumah Tangga,Implan,Keluarga,1
+28,Pria,4,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+39,Pria,5,Perguruan Tinggi,Tinggi,Wiraswasta,Tidak,Tenaga Kesehatan,1
+43,Wanita,3,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+45,Pria,0,SD,Rendah,Karyawan Swasta,Implan,Media,0
+35,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+38,Pria,5,Perguruan Tinggi,Tinggi,Wiraswasta,Kondom,Media,0
+34,Pria,3,SD,Rendah,Buruh,Suntik,Tenaga Kesehatan,0
+24,Pria,1,SMA,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+34,Pria,4,SD,Tinggi,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+37,Pria,4,SMA,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+26,Wanita,2,SMP,Menengah,Wiraswasta,IUD,Keluarga,1
+34,Wanita,3,SMA,Rendah,Buruh,Kondom,Keluarga,0
+37,Wanita,2,SMP,Rendah,Buruh,Suntik,Tenaga Kesehatan,1
+39,Wanita,5,SMA,Menengah,Karyawan Swasta,Tidak,Media,0
+39,Wanita,2,SMP,Rendah,PNS,Suntik,Keluarga,1
+45,Pria,0,SMA,Rendah,Buruh,IUD,Tenaga Kesehatan,1
+48,Wanita,4,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,Tidak,Media,0
+46,Wanita,2,SD,Rendah,Karyawan Swasta,Suntik,Media,1
+25,Wanita,0,Perguruan Tinggi,Tinggi,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+34,Wanita,3,SMA,Tinggi,Wiraswasta,Suntik,Tenaga Kesehatan,1
+24,Pria,2,SD,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+18,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+49,Wanita,5,SD,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+30,Wanita,5,SMA,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+47,Wanita,4,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+40,Pria,2,SD,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+36,Pria,3,SMA,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+44,Wanita,2,Perguruan Tinggi,Tinggi,Karyawan Swasta,Tidak,Teman,1
+41,Wanita,4,Perguruan Tinggi,Rendah,Wiraswasta,PIL,Tenaga Kesehatan,0
+36,Pria,0,SMA,Rendah,Buruh,IUD,Media,0
+47,Pria,4,Perguruan Tinggi,Rendah,PNS,IUD,Tenaga Kesehatan,1
+49,Pria,5,SMA,Tinggi,Wiraswasta,Suntik,Media,0
+47,Pria,0,SMP,Menengah,PNS,Kondom,Media,0
+46,Wanita,5,Perguruan Tinggi,Tinggi,Karyawan Swasta,Kondom,Tenaga Kesehatan,0
+34,Wanita,1,SMP,Rendah,PNS,Suntik,Keluarga,0
+30,Pria,4,SMP,Rendah,PNS,Tidak,Media,1
+46,Pria,4,SMP,Rendah,Karyawan Swasta,Implan,Keluarga,0
+47,Pria,3,Perguruan Tinggi,Menengah,Karyawan Swasta,PIL,Media,1
+33,Pria,2,Perguruan Tinggi,Menengah,PNS,Suntik,Teman,1
+25,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Tidak,Keluarga,1
+36,Wanita,0,SMP,Rendah,Ibu Rumah Tangga,Kondom,Teman,1
+35,Wanita,3,SMP,Tinggi,Karyawan Swasta,Suntik,Media,1
+18,Pria,3,SMA,Rendah,Ibu Rumah Tangga,Suntik,Media,1
+31,Wanita,2,SMP,Tinggi,Ibu Rumah Tangga,Tidak,Keluarga,1
+36,Wanita,5,SMA,Rendah,Karyawan Swasta,Implan,Keluarga,0
+32,Wanita,2,SMP,Menengah,Karyawan Swasta,IUD,Teman,1
+35,Wanita,4,SMP,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+19,Pria,5,SD,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+39,Pria,1,SMP,Menengah,Buruh,IUD,Tenaga Kesehatan,1
+45,Pria,2,Perguruan Tinggi,Menengah,Wiraswasta,Implan,Media,1
+34,Pria,3,SMP,Menengah,Buruh,Implan,Tenaga Kesehatan,1
+35,Pria,5,SD,Menengah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+47,Wanita,2,SMP,Menengah,PNS,Tidak,Teman,0
+23,Wanita,0,SMP,Tinggi,Wiraswasta,Implan,Tenaga Kesehatan,0
+36,Wanita,1,SD,Rendah,Ibu Rumah Tangga,Tidak,Media,1
+48,Pria,4,SMP,Menengah,Ibu Rumah Tangga,PIL,Media,1
+21,Wanita,0,SMA,Menengah,PNS,Suntik,Tenaga Kesehatan,1
+18,Wanita,0,SMA,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+25,Wanita,1,SMP,Menengah,Wiraswasta,Kondom,Media,1
+46,Wanita,4,SMP,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+40,Wanita,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Suntik,Keluarga,1
+24,Wanita,5,SMP,Rendah,Karyawan Swasta,PIL,Teman,1
+20,Pria,4,SMP,Rendah,PNS,IUD,Tenaga Kesehatan,0
+49,Pria,2,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+27,Pria,0,SMP,Menengah,Karyawan Swasta,IUD,Media,0
+27,Pria,2,SMA,Tinggi,Karyawan Swasta,Suntik,Keluarga,1
+36,Pria,3,SMP,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+31,Wanita,2,SMA,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+19,Wanita,4,SD,Tinggi,Ibu Rumah Tangga,Suntik,Media,0
+45,Wanita,2,SMP,Tinggi,Ibu Rumah Tangga,IUD,Teman,1
+18,Pria,3,SMA,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+40,Wanita,3,SMP,Menengah,PNS,PIL,Media,0
+40,Wanita,3,SMA,Tinggi,Buruh,Tidak,Teman,1
+45,Pria,4,SMP,Menengah,Buruh,Suntik,Media,0
+49,Wanita,3,SMA,Tinggi,PNS,PIL,Keluarga,0
+35,Pria,0,SD,Rendah,Karyawan Swasta,PIL,Media,1
+24,Pria,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Teman,1
+46,Wanita,2,SD,Menengah,Ibu Rumah Tangga,Kondom,Media,1
+25,Pria,5,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,Suntik,Keluarga,0
+18,Wanita,2,SMP,Tinggi,Wiraswasta,Implan,Media,0
+42,Wanita,5,SMA,Tinggi,Karyawan Swasta,IUD,Keluarga,1
+40,Wanita,2,SMP,Rendah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+20,Pria,4,Perguruan Tinggi,Rendah,PNS,Kondom,Tenaga Kesehatan,1
+41,Pria,2,SD,Tinggi,Karyawan Swasta,IUD,Keluarga,0
+40,Pria,4,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+44,Wanita,4,SMP,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+48,Wanita,3,SD,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+46,Pria,0,SD,Menengah,PNS,Implan,Keluarga,1
+25,Wanita,5,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+39,Wanita,3,Perguruan Tinggi,Menengah,Ibu Rumah Tangga,PIL,Keluarga,1
+42,Pria,3,SMP,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+32,Wanita,4,Perguruan Tinggi,Tinggi,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+22,Wanita,4,SMA,Menengah,PNS,Tidak,Media,0
+20,Pria,5,SMP,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+36,Pria,2,SMA,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+18,Wanita,2,SMA,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+45,Wanita,3,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+32,Wanita,1,SMP,Rendah,Ibu Rumah Tangga,Kondom,Teman,1
+25,Wanita,1,SMA,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+19,Pria,2,SD,Rendah,Ibu Rumah Tangga,IUD,Media,0
+20,Pria,1,SD,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+49,Wanita,2,SD,Rendah,Buruh,Suntik,Media,1
+41,Pria,4,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,1
+31,Pria,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,IUD,Media,1
+49,Wanita,0,SMA,Rendah,Buruh,Tidak,Keluarga,1
+41,Wanita,3,SMA,Rendah,PNS,IUD,Media,0
+31,Wanita,2,SMP,Tinggi,Buruh,Tidak,Tenaga Kesehatan,1
+28,Wanita,2,SD,Tinggi,Karyawan Swasta,Suntik,Media,0
+33,Pria,3,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+21,Wanita,5,SMP,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+37,Pria,2,SMA,Menengah,Ibu Rumah Tangga,IUD,Media,0
+22,Wanita,1,SMA,Tinggi,Karyawan Swasta,IUD,Media,0
+39,Wanita,1,SD,Rendah,PNS,PIL,Media,1
+38,Wanita,2,SD,Menengah,Ibu Rumah Tangga,PIL,Keluarga,1
+31,Wanita,2,SD,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+48,Wanita,5,SMP,Rendah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,1
+40,Pria,1,Perguruan Tinggi,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+33,Wanita,2,SMA,Menengah,Karyawan Swasta,PIL,Media,0
+35,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Tidak,Media,1
+24,Pria,5,SMP,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+27,Wanita,5,SMP,Menengah,PNS,Tidak,Keluarga,1
+24,Wanita,3,SD,Menengah,Wiraswasta,Suntik,Media,0
+18,Pria,5,Perguruan Tinggi,Rendah,PNS,PIL,Media,0
+40,Wanita,0,SMA,Tinggi,Karyawan Swasta,Implan,Media,1
+38,Wanita,1,SD,Rendah,Karyawan Swasta,Suntik,Media,1
+36,Wanita,3,SMA,Rendah,Karyawan Swasta,PIL,Media,0
+33,Wanita,0,SMP,Tinggi,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+46,Wanita,2,SMA,Rendah,Buruh,PIL,Tenaga Kesehatan,1
+36,Wanita,2,Perguruan Tinggi,Rendah,PNS,IUD,Tenaga Kesehatan,0
+21,Wanita,3,SMA,Menengah,Buruh,Implan,Media,0
+46,Pria,5,SMA,Tinggi,Ibu Rumah Tangga,Implan,Keluarga,1
+45,Wanita,2,SD,Rendah,Ibu Rumah Tangga,PIL,Media,1
+35,Wanita,4,SD,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+19,Pria,3,SD,Menengah,Karyawan Swasta,Suntik,Keluarga,1
+18,Wanita,0,SD,Rendah,PNS,IUD,Keluarga,1
+32,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,PIL,Keluarga,1
+22,Pria,1,SMA,Rendah,Ibu Rumah Tangga,PIL,Media,1
+37,Wanita,5,SD,Menengah,Wiraswasta,Implan,Keluarga,1
+28,Wanita,5,Perguruan Tinggi,Menengah,Buruh,PIL,Tenaga Kesehatan,1
+27,Wanita,3,SD,Tinggi,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+48,Pria,2,SMP,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,0
+19,Pria,2,SMP,Menengah,PNS,Suntik,Keluarga,0
+20,Pria,4,SMP,Menengah,PNS,IUD,Tenaga Kesehatan,1
+40,Wanita,4,SMP,Rendah,Wiraswasta,IUD,Media,1
+40,Pria,5,SMP,Rendah,Ibu Rumah Tangga,Suntik,Media,0
+29,Wanita,4,SMP,Rendah,PNS,Tidak,Tenaga Kesehatan,1
+37,Pria,0,Perguruan Tinggi,Menengah,PNS,Kondom,Keluarga,0
+22,Pria,4,SD,Menengah,PNS,Suntik,Tenaga Kesehatan,1
+22,Wanita,0,SD,Rendah,PNS,Implan,Tenaga Kesehatan,0
+23,Wanita,4,SD,Tinggi,Karyawan Swasta,Implan,Keluarga,1
+49,Pria,5,SMA,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+47,Wanita,5,SD,Menengah,Karyawan Swasta,PIL,Media,0
+26,Pria,0,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Keluarga,0
+19,Wanita,3,SMA,Menengah,Ibu Rumah Tangga,Suntik,Teman,0
+38,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+29,Pria,3,SMA,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+20,Pria,2,SD,Menengah,PNS,Suntik,Media,1
+37,Pria,0,SD,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+43,Wanita,5,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,1
+39,Wanita,1,SMA,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+29,Pria,2,SMP,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+41,Wanita,3,SD,Rendah,PNS,Suntik,Keluarga,1
+34,Pria,5,Perguruan Tinggi,Tinggi,PNS,Implan,Tenaga Kesehatan,1
+27,Pria,0,SD,Rendah,Karyawan Swasta,PIL,Media,1
+47,Wanita,4,Perguruan Tinggi,Rendah,PNS,Kondom,Media,0
+41,Wanita,1,SMA,Rendah,Buruh,Kondom,Media,1
+44,Wanita,3,SMP,Tinggi,Buruh,Suntik,Teman,0
+31,Wanita,2,SD,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+40,Pria,0,SD,Rendah,Ibu Rumah Tangga,Implan,Media,0
+49,Wanita,1,SMA,Tinggi,Karyawan Swasta,Suntik,Media,1
+49,Pria,0,SMA,Rendah,PNS,IUD,Tenaga Kesehatan,1
+34,Wanita,5,SMA,Rendah,Ibu Rumah Tangga,Tidak,Media,0
+35,Pria,4,Perguruan Tinggi,Rendah,Buruh,Suntik,Keluarga,0
+36,Wanita,2,SMA,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+34,Pria,0,SD,Rendah,Wiraswasta,Implan,Tenaga Kesehatan,1
+31,Pria,3,SMP,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+26,Wanita,5,Perguruan Tinggi,Rendah,Karyawan Swasta,PIL,Keluarga,1
+25,Pria,5,SMP,Menengah,Ibu Rumah Tangga,IUD,Keluarga,0
+19,Wanita,2,SD,Rendah,Ibu Rumah Tangga,Suntik,Media,0
+30,Pria,5,SMA,Rendah,Karyawan Swasta,IUD,Media,0
+42,Pria,3,SMP,Menengah,Ibu Rumah Tangga,Kondom,Keluarga,0
+24,Pria,0,Perguruan Tinggi,Tinggi,PNS,PIL,Keluarga,1
+26,Pria,2,SMA,Rendah,PNS,Kondom,Keluarga,0
+39,Wanita,5,SD,Menengah,Ibu Rumah Tangga,PIL,Keluarga,0
+39,Pria,5,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,PIL,Media,1
+28,Wanita,3,SMP,Rendah,Karyawan Swasta,Tidak,Media,0
+31,Wanita,4,SMP,Rendah,Ibu Rumah Tangga,Suntik,Keluarga,1
+21,Wanita,4,SMP,Rendah,Ibu Rumah Tangga,Implan,Teman,0
+43,Wanita,5,SD,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,1
+43,Wanita,0,SMP,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+46,Wanita,2,SD,Menengah,PNS,Suntik,Teman,1
+30,Pria,5,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+19,Pria,1,SMP,Menengah,Karyawan Swasta,Tidak,Keluarga,1
+40,Wanita,2,SMA,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+22,Wanita,4,Perguruan Tinggi,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+28,Wanita,5,SD,Menengah,Karyawan Swasta,Implan,Tenaga Kesehatan,1
+23,Wanita,3,SMP,Rendah,PNS,Suntik,Tenaga Kesehatan,0
+35,Wanita,1,SMP,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+49,Wanita,5,SD,Menengah,Ibu Rumah Tangga,IUD,Media,0
+38,Wanita,0,SMA,Tinggi,Karyawan Swasta,PIL,Keluarga,0
+27,Pria,1,SMA,Rendah,Karyawan Swasta,PIL,Teman,1
+21,Wanita,5,SD,Rendah,Wiraswasta,PIL,Media,1
+26,Pria,0,SMP,Tinggi,Ibu Rumah Tangga,Implan,Media,1
+23,Pria,1,SD,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+19,Wanita,0,SMA,Menengah,Karyawan Swasta,Implan,Media,0
+34,Pria,0,SD,Rendah,Karyawan Swasta,IUD,Media,1
+22,Pria,1,Perguruan Tinggi,Rendah,Karyawan Swasta,PIL,Tenaga Kesehatan,0
+42,Pria,1,SMA,Menengah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+23,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+43,Wanita,4,SMA,Rendah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+29,Wanita,1,Perguruan Tinggi,Menengah,PNS,Tidak,Keluarga,1
+40,Wanita,5,SMA,Menengah,Buruh,PIL,Tenaga Kesehatan,0
+38,Wanita,2,SD,Menengah,PNS,IUD,Keluarga,1
+27,Pria,3,SMP,Rendah,Karyawan Swasta,Implan,Teman,0
+39,Wanita,0,Perguruan Tinggi,Menengah,Karyawan Swasta,Tidak,Teman,1
+38,Wanita,0,SMA,Menengah,Karyawan Swasta,Kondom,Teman,1
+44,Wanita,3,SMA,Menengah,PNS,Tidak,Tenaga Kesehatan,0
+42,Pria,4,Perguruan Tinggi,Menengah,Buruh,IUD,Media,1
+48,Wanita,3,Perguruan Tinggi,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+23,Wanita,1,Perguruan Tinggi,Menengah,Karyawan Swasta,PIL,Keluarga,1
+44,Pria,3,SD,Menengah,Ibu Rumah Tangga,PIL,Keluarga,0
+25,Wanita,0,SMA,Rendah,PNS,Tidak,Keluarga,1
+19,Pria,3,SMA,Menengah,PNS,Tidak,Media,1
+29,Pria,2,SMA,Rendah,Ibu Rumah Tangga,PIL,Keluarga,1
+30,Wanita,5,SMA,Menengah,Wiraswasta,PIL,Tenaga Kesehatan,1
+42,Pria,1,SD,Rendah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+38,Wanita,3,SMA,Menengah,Karyawan Swasta,PIL,Keluarga,0
+24,Wanita,0,SMA,Tinggi,Wiraswasta,IUD,Media,0
+27,Pria,5,SD,Menengah,Ibu Rumah Tangga,Tidak,Teman,1
+30,Wanita,1,SMP,Tinggi,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+34,Pria,0,SD,Tinggi,Ibu Rumah Tangga,Kondom,Keluarga,1
+43,Pria,4,SMP,Rendah,Ibu Rumah Tangga,Kondom,Media,1
+38,Pria,2,SD,Menengah,PNS,Suntik,Keluarga,1
+45,Pria,4,SMP,Menengah,Wiraswasta,Kondom,Keluarga,1
+47,Pria,2,SMA,Tinggi,Ibu Rumah Tangga,Suntik,Teman,0
+43,Wanita,3,SMA,Rendah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+31,Wanita,1,SMA,Tinggi,Karyawan Swasta,Suntik,Teman,1
+49,Pria,3,Perguruan Tinggi,Menengah,Buruh,Suntik,Tenaga Kesehatan,1
+19,Wanita,2,SMP,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+45,Wanita,2,SD,Rendah,Karyawan Swasta,Tidak,Media,1
+39,Wanita,2,Perguruan Tinggi,Rendah,Karyawan Swasta,Implan,Keluarga,0
+28,Wanita,5,SD,Menengah,Karyawan Swasta,Kondom,Media,0
+18,Pria,0,Perguruan Tinggi,Rendah,Wiraswasta,PIL,Keluarga,1
+36,Pria,1,Perguruan Tinggi,Tinggi,Buruh,Kondom,Keluarga,1
+38,Wanita,3,SMA,Rendah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,0
+21,Wanita,3,Perguruan Tinggi,Menengah,PNS,PIL,Teman,0
+36,Pria,4,SD,Rendah,PNS,Implan,Tenaga Kesehatan,1
+43,Pria,2,SMP,Menengah,PNS,Suntik,Keluarga,0
+46,Wanita,2,SMA,Menengah,PNS,PIL,Tenaga Kesehatan,1
+38,Wanita,2,SMP,Rendah,PNS,Tidak,Media,1
+28,Wanita,3,Perguruan Tinggi,Rendah,PNS,PIL,Media,0
+25,Wanita,4,SD,Rendah,Wiraswasta,Tidak,Tenaga Kesehatan,0
+28,Pria,0,SMA,Menengah,Ibu Rumah Tangga,Kondom,Tenaga Kesehatan,0
+49,Wanita,5,SMA,Menengah,Wiraswasta,IUD,Tenaga Kesehatan,0
+21,Wanita,1,SMA,Menengah,PNS,Implan,Tenaga Kesehatan,1
+34,Pria,0,SMP,Menengah,Karyawan Swasta,Kondom,Tenaga Kesehatan,1
+44,Wanita,3,SMP,Menengah,Buruh,Suntik,Media,1
+24,Wanita,5,Perguruan Tinggi,Rendah,PNS,Suntik,Keluarga,1
+25,Pria,5,SD,Rendah,PNS,Implan,Media,0
+20,Wanita,5,Perguruan Tinggi,Rendah,PNS,Implan,Keluarga,1
+39,Wanita,2,SMA,Tinggi,PNS,Tidak,Media,0
+19,Wanita,1,SMA,Tinggi,Wiraswasta,IUD,Media,0
+40,Pria,3,SMA,Rendah,Buruh,Implan,Media,1
+32,Pria,3,SMP,Menengah,Ibu Rumah Tangga,IUD,Media,1
+41,Wanita,5,SMA,Tinggi,Ibu Rumah Tangga,Kondom,Media,0
+39,Pria,3,Perguruan Tinggi,Menengah,PNS,Kondom,Tenaga Kesehatan,0
+39,Wanita,1,SMP,Rendah,Ibu Rumah Tangga,IUD,Keluarga,0
+22,Wanita,1,Perguruan Tinggi,Rendah,Karyawan Swasta,PIL,Keluarga,1
+41,Pria,4,SMP,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+18,Wanita,4,SD,Tinggi,Karyawan Swasta,Implan,Keluarga,1
+43,Wanita,0,SMP,Menengah,Ibu Rumah Tangga,Implan,Tenaga Kesehatan,1
+21,Pria,1,Perguruan Tinggi,Rendah,PNS,Tidak,Tenaga Kesehatan,0
+32,Wanita,1,SMP,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+37,Wanita,1,Perguruan Tinggi,Menengah,PNS,IUD,Keluarga,1
+36,Wanita,4,Perguruan Tinggi,Tinggi,Wiraswasta,Tidak,Keluarga,1
+20,Wanita,5,SMP,Menengah,Buruh,Implan,Keluarga,1
+37,Wanita,5,SD,Menengah,PNS,Suntik,Tenaga Kesehatan,0
+28,Wanita,3,SMA,Rendah,Ibu Rumah Tangga,PIL,Media,1
+34,Wanita,5,SMP,Tinggi,Buruh,Implan,Keluarga,0
+47,Wanita,2,SMA,Menengah,Wiraswasta,Tidak,Tenaga Kesehatan,1
+44,Wanita,4,SMP,Rendah,Buruh,Suntik,Media,0
+30,Pria,1,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,1
+28,Wanita,5,SMA,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+19,Pria,4,SMP,Rendah,Ibu Rumah Tangga,Tidak,Media,0
+26,Pria,5,SMP,Rendah,Karyawan Swasta,IUD,Media,1
+43,Pria,0,SMP,Rendah,Wiraswasta,Suntik,Tenaga Kesehatan,1
+19,Wanita,1,SMP,Rendah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+38,Wanita,0,SMA,Menengah,Wiraswasta,PIL,Tenaga Kesehatan,1
+26,Wanita,1,Perguruan Tinggi,Menengah,PNS,Kondom,Tenaga Kesehatan,1
+26,Wanita,4,SMP,Menengah,Wiraswasta,Suntik,Tenaga Kesehatan,0
+25,Wanita,3,SMA,Rendah,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,0
+34,Wanita,5,SMA,Rendah,Wiraswasta,Implan,Media,1
+18,Wanita,5,SMP,Menengah,Ibu Rumah Tangga,IUD,Media,1
+42,Pria,2,SMP,Rendah,Karyawan Swasta,Suntik,Keluarga,1
+46,Pria,0,Perguruan Tinggi,Rendah,Karyawan Swasta,IUD,Keluarga,1
+28,Wanita,5,SMA,Tinggi,PNS,Implan,Tenaga Kesehatan,1
+25,Wanita,4,SMA,Menengah,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,0
+27,Pria,3,SMA,Tinggi,Karyawan Swasta,PIL,Keluarga,1
+42,Pria,4,SD,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,1
+24,Wanita,0,SMA,Rendah,Karyawan Swasta,Implan,Tenaga Kesehatan,0
+20,Pria,2,SMA,Menengah,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+20,Wanita,5,SMA,Rendah,Wiraswasta,PIL,Media,0
+35,Wanita,4,SMP,Menengah,Ibu Rumah Tangga,Suntik,Media,0
+22,Wanita,1,SD,Rendah,Ibu Rumah Tangga,IUD,Teman,0
+29,Pria,3,SD,Tinggi,Ibu Rumah Tangga,Kondom,Keluarga,1
+29,Wanita,4,Perguruan Tinggi,Rendah,PNS,Kondom,Media,1
+36,Wanita,3,SMP,Tinggi,Ibu Rumah Tangga,PIL,Tenaga Kesehatan,1
+47,Wanita,5,SMP,Tinggi,PNS,Tidak,Tenaga Kesehatan,0
+23,Wanita,1,SD,Menengah,Buruh,PIL,Tenaga Kesehatan,0
+19,Pria,2,SD,Menengah,Karyawan Swasta,Suntik,Tenaga Kesehatan,1
+29,Wanita,2,SMA,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+36,Wanita,1,SMA,Tinggi,Ibu Rumah Tangga,Tidak,Tenaga Kesehatan,0
+22,Wanita,3,SMA,Menengah,Karyawan Swasta,Tidak,Tenaga Kesehatan,0
+29,Pria,5,SMP,Menengah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+44,Wanita,4,SMA,Menengah,Karyawan Swasta,PIL,Teman,0
+44,Wanita,1,SD,Tinggi,Ibu Rumah Tangga,PIL,Media,1
+34,Pria,0,SD,Menengah,PNS,Suntik,Teman,1
+46,Pria,3,SMP,Menengah,PNS,Kondom,Tenaga Kesehatan,1
+34,Wanita,2,SMP,Menengah,Buruh,PIL,Media,1
+27,Pria,1,SMP,Tinggi,Ibu Rumah Tangga,Suntik,Tenaga Kesehatan,1
+42,Pria,2,SMA,Menengah,Karyawan Swasta,IUD,Tenaga Kesehatan,0
+40,Pria,3,SMA,Rendah,Ibu Rumah Tangga,IUD,Tenaga Kesehatan,0
+34,Wanita,2,Perguruan Tinggi,Menengah,Karyawan Swasta,Suntik,Teman,0

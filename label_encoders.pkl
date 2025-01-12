@@ -1,0 +1,23 @@
+import pickle
+from sklearn.preprocessing import LabelEncoder
+
+# Data kategorikal contoh
+data = {
+    "jenis_kelamin": ["Pria", "Wanita"],
+    "pendidikan": ["SD", "SMP", "SMA", "S1"],
+    "status_ekonomi": ["Rendah", "Menengah", "Tinggi"],
+    "pekerjaan": ["Petani", "Guru", "Dokter"],
+    "sumber_informasi": ["Internet", "TV", "Radio"],
+}
+
+label_encoders = {}
+for key, values in data.items():
+    le = LabelEncoder()
+    le.fit(values)
+    label_encoders[key] = le
+
+# Simpan ke file
+with open("label_encoders.pkl", "wb") as file:
+    pickle.dump(label_encoders, file)
+
+print("Label encoders berhasil disimpan!")
